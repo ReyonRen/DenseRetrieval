@@ -37,13 +37,24 @@
 - [End-to-End Training](#directly-apply-pre-trained-models-to-IR)
 - [Pre-training then Fine-tuning on original task](#design-new-pre-training-tasks-for-reranking)
 
-### End-to-End Training with other model
+### End-to-End Training
 - [Latent Retrieval for Weakly Supervised Open Domain Question Answering.](https://arxiv.org/pdf/1906.00300.pdf) *Kenton Lee et.al.* ACL 2019. [[code](https://github.com/google-research/language/blob/master/language/orqa/README.md)] (**ORQA, ICT**)
 - [REALM: Retrieval-Augmented Language Model Pre-Training.](https://arxiv.org/pdf/2002.08909.pdf) *Kelvin Guu, Kenton Lee et.al.* ICML 2020. [[code](https://github.com/google-research/language/blob/master/language/realm/README.md)] (**REALM**)
+- [End-to-End Training of Neural Retrievers for Open-Domain Question Answering.](https://arxiv.org/abs/2101.00408) *Devendra Singh Sachan et.al.* ACL 2021.
+
 
 ### Pre-training then Fine-tuning on original task
-- [Pre-training tasks for embedding-based large scale retrieva.](https://arxiv.org/pdf/2002.03932.pdf) *Wei-Cheng Chang et.al.* ICLR 2020. (**ICT, BFS and WLP**)
-- QPSR
+- [Pre-training tasks for embedding-based large scale retrieval.](https://arxiv.org/pdf/2002.03932.pdf) *Wei-Cheng Chang et.al.* ICLR 2020. (**ICT, BFS and WLP**)
+- PAIR
+
+
+## Negative Sampling
+- [Ad-hoc Negative Sampling]
+- [Utilize Cross-encoder]
+
+### Ad-hoc Negative Sampling
+
+### Utilize Cross-encoder
 
 -----------------------------------------------------------------------------------------------------------
 
