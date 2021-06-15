@@ -8,14 +8,15 @@
 ## Table of Contents
 
 - [Survey paper](#survey-paper)
-- [Ad-hoc Dense Passage Retrieval](#first-stage-retrieval)
-- [Design Pre-training Task(s)](#re-ranking-stage)
-  - [End-to-End Training](#directly-apply-pre-trained-models-to-IR)
-  - [Pre-training then Fine-tuning on original task](#design-new-pre-training-tasks-for-reranking)
-- [Negative Sampling](#multimodal-retrieval)
-  - [Ad-hoc Negative Sampling]
-  - [Utilize Cross-encoder](#unified-single-stream-architecture)
+- [Ad-hoc Dense Passage Retrieval](#ad-hoc-dense-passage-retrieval)
+- [Late Interaction](#late-interaction)
+- [End-to-End Training](#end-to-end-training)
+- [Design Pre-training Task(s)](#design-pre-training-tasks)
+  - [Pre-training then Fine-tuning on Other Task](#pre-training-then-fine-tuning-on-other-task)
+  - [Pre-training then Fine-tuning on Original Task](#pre-training-then-fine-tuning-on-original-task)
+- [Data Augmentation and Sampling Strategy](#data-augmentation-and-sampling-strategy)
 - [Other Resources](#other-resources)
+  - [Some Retrieval Toolkits](#some-retrieval-toolkits)
 
 
  
@@ -41,12 +42,12 @@
 
 ## Design Pre-training Task(s)
 
-### Pre-training and fine-tuning on other task
+### Pre-training then Fine-tuning on Other Task
 - [Latent Retrieval for Weakly Supervised Open Domain Question Answering.](https://arxiv.org/pdf/1906.00300.pdf) *Kenton Lee et.al.* ACL 2019. [[code](https://github.com/google-research/language/blob/master/language/orqa/README.md)] (**ORQA, ICT**)
 - [REALM: Retrieval-Augmented Language Model Pre-Training.](https://arxiv.org/pdf/2002.08909.pdf) *Kelvin Guu, Kenton Lee et.al.* ICML 2020. [[code](https://github.com/google-research/language/blob/master/language/realm/README.md)] (**REALM**)
 - [End-to-End Training of Neural Retrievers for Open-Domain Question Answering.](https://arxiv.org/abs/2101.00408) *Devendra Singh Sachan et.al.* ACL 2021. [[code](https://github.com/NVIDIA/Megatron-LM)]
 
-### Pre-training then Fine-tuning on original task
+### Pre-training then Fine-tuning on Original Task
 - [Pre-training tasks for embedding-based large scale retrieval.](https://arxiv.org/pdf/2002.03932.pdf) *Wei-Cheng Chang et.al.* ICLR 2020. (**ICT, BFS and WLP**)
 - PAIR. *Ruiyang Ren, Shangwen Lv et.al.* ACL 2021.
 - [Is Your Language Model Ready for Dense Representation Fine-tuning?](https://arxiv.org/pdf/2104.08253.pdf) *Luyu Gao and Jamie Callan* Arxiv 2021.
