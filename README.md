@@ -40,8 +40,6 @@
 - [End-to-End Training of Neural Retrievers for Open-Domain Question Answering.](https://arxiv.org/abs/2101.00408) *Devendra Singh Sachan et.al.* ACL 2021. [[code](https://github.com/NVIDIA/Megatron-LM)]
 
 ## Design Pre-training Task(s)
-- [Pre-training and fine-tuning on other task](#Pre-training and fine-tuning on other task)
-- [Pre-training then Fine-tuning on original task](#Pre-training then Fine-tuning on original task)
 
 ### Pre-training and fine-tuning on other task
 - [Latent Retrieval for Weakly Supervised Open Domain Question Answering.](https://arxiv.org/pdf/1906.00300.pdf) *Kenton Lee et.al.* ACL 2019. [[code](https://github.com/google-research/language/blob/master/language/orqa/README.md)] (**ORQA, ICT**)
@@ -79,4 +77,4 @@
 - [Faiss: a library for efficient similarity search and clustering of dense vectors](https://github.com/facebookresearch/faiss)
 - [Pyserini: a Python Toolkit to Support Sparse and Dense Representations](https://github.com/castorini/pyserini/)
 - [MatchZoo: a library consisting of many popular neural text matching models](https://github.com/NTMC-Community/MatchZoo)
-- [Anserini]()
+- [Anserini: Enabling the Use of Lucene for Information Retrieval Research](https://github.com/castorini/anserini)
