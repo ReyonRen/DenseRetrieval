@@ -1,4 +1,4 @@
-# Awesome-Research-for-Dense-Passage-Retrieval
+# Awesome Research for Dense Passage Retrieval
 
 
 > A curated list of awesome papers related to dense passage retrieval retrieval. Any feedback and contribution are welcome!
