@@ -80,3 +80,6 @@
 - [Pyserini: a Python Toolkit to Support Sparse and Dense Representations](https://github.com/castorini/pyserini/)
 - [MatchZoo: a library consisting of many popular neural text matching models](https://github.com/NTMC-Community/MatchZoo)
 - [Anserini: Enabling the Use of Lucene for Information Retrieval Research](https://github.com/castorini/anserini)
+
+### Other Summaries
+- [awesome-pretrained-models-for-information-retrieval](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval)
