@@ -52,7 +52,7 @@
 ### Pre-training then Fine-tuning on Original Task
 - [Pre-training tasks for embedding-based large scale retrieval.](https://arxiv.org/pdf/2002.03932.pdf) *Wei-Cheng Chang et.al.* ICLR 2020. (**ICT, BFS and WLP**)
 - PAIR. *Ruiyang Ren, Shangwen Lv et.al.* ACL 2021.
-- [Is Your Language Model Ready for Dense Representation Fine-tuning?](https://arxiv.org/pdf/2104.08253.pdf) *Luyu Gao and Jamie Callan* Arxiv 2021.
+- [Is Your Language Model Ready for Dense Representation Fine-tuning?](https://arxiv.org/pdf/2104.08253.pdf) *Luyu Gao* Arxiv 2021. [[code](https://github.com/luyug/Condenser)]
 
 
 ## Data Augmentation and Sampling Strategy
