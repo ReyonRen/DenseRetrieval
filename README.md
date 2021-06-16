@@ -10,7 +10,7 @@
 - [Survey paper](#survey-paper)
 - [Ad-hoc Dense Passage Retrieval](#ad-hoc-dense-passage-retrieval)
 - [Late Interaction](#late-interaction)
-- [End-to-End Training](#end-to-end-training)
+- [End-to-End (joint) Training](#end-to-end-joint-training)
 - [Design Pre-training Task(s)](#design-pre-training-tasks)
   - [Pre-training then Fine-tuning on Other Task](#pre-training-then-fine-tuning-on-other-task)
   - [Pre-training then Fine-tuning on Original Task](#pre-training-then-fine-tuning-on-original-task)
@@ -34,11 +34,12 @@
 - [Modularized Transfomer-based Ranking Framework.](https://arxiv.org/pdf/2004.13313.pdf) *Luyu Gao et.al.* EMNLP 2020. [[code](https://github.com/luyug/MORES)] (**MORES**)
 
 
-## End-to-End Training
+## End-to-End (joint) Training
 - [Latent Retrieval for Weakly Supervised Open Domain Question Answering.](https://arxiv.org/pdf/1906.00300.pdf) *Kenton Lee et.al.* ACL 2019. [[code](https://github.com/google-research/language/blob/master/language/orqa/README.md)] (**ORQA, ICT**)
 - [REALM: Retrieval-Augmented Language Model Pre-Training.](https://arxiv.org/pdf/2002.08909.pdf) *Kelvin Guu, Kenton Lee et.al.* ICML 2020. [[code](https://github.com/google-research/language/blob/master/language/realm/README.md)] (**REALM**)
 - [Retrieval-Augmented Generation for Knowledge-Intensive NLP Tasks.](https://arxiv.org/abs/2005.11401) *Patrick Lewis et.al.* NIPS 2020. [[code](https://github.com/huggingface/transformers/blob/master/examples/rag/)]
 - [End-to-End Training of Neural Retrievers for Open-Domain Question Answering.](https://arxiv.org/abs/2101.00408) *Devendra Singh Sachan et.al.* ACL 2021. [[code](https://github.com/NVIDIA/Megatron-LM)]
+- [Efﬁcient Retrieval Optimized Multi-task Learning.](https://arxiv.org/abs/2104.10129) *Hengxin Fun et.al.* Arxiv 2021.
 
 ## Design Pre-training Task(s)
 
