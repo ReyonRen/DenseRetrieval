@@ -1,14 +1,14 @@
-# Awesome Research for Dense Passage Retrieval
+# Awesome Research for Dense Retrieval
 
 
-> A curated list of awesome papers related to dense passage retrieval retrieval. Any feedback and contribution are welcome!
+> A curated list of awesome papers related to dense retrieval. Any feedback and contribution are welcome!
 
 
 
 ## Table of Contents
 
 - [Survey paper](#survey-paper)
-- [Ad-hoc Dense Passage Retrieval](#ad-hoc-dense-passage-retrieval)
+- [Ad-hoc Dense Retrieval](#ad-hoc-dense-retrieval)
 - [Late Interaction](#late-interaction)
 - [End-to-End (joint) Training](#end-to-end-joint-training)
 - [Design Pre-training Task(s)](#design-pre-training-tasks)
@@ -25,10 +25,14 @@
 - [Pretrained Transformers for Text Ranking: BERT and Beyond.](https://arxiv.org/abs/2010.06467) *Jimmy Lin et.al.*
 - [Semantic Models for the First-stage Retrieval: A Comprehensive Review.](https://arxiv.org/pdf/2103.04831.pdf) *Yinqiong Cai et.al.*
 
-## Ad-hoc Dense Passage Retrieval
+## Ad-hoc Dense Retrieval
 - [DC-BERT: Decoupling Question and Document for Efficient Contextual Encoding.](https://arxiv.org/pdf/2002.12591.pdf) *Yuyu Zhang, Ping Nie et.al.* SIGIR 2020 short. (**DC-BERT**)
 - [Learning To Retrieve: How to Train a Dense Retrieval Model Effectively and Efficiently.](https://arxiv.org/abs/2010.10469) *Jingtao Zhan et.al.* Arxiv 2020.
 - [Sparse, Dense, and Attentional Representations for Text Retrieval](https://arxiv.org/pdf/2005.00181.pdf) *Yi Luan et.al.* TACL 2020. [[code](https://github.com/google-research/language/tree/master/language/multivec)] (**ME-BERT**)
+- [Answering Complex Open-Domain Questions with Multi-Hop Dense Retrieval.](https://arxiv.org/pdf/2009.12756.pdf) *Wenhan Xiong at.el.* ICLR 2021 [[code](https://github.com/facebookresearch/multihop_dense_retrieval)]
+- [XOR QA: Cross-lingual Open-Retrieval Question Answering.](https://arxiv.org/abs/2010.11856) *Akari Asai et.al.* NAACL 2021. [[code](https://nlp.cs.washington.edu/xorqa)]
+- [Autoregressive Entity Retrieval.](https://arxiv.org/abs/2010.00904) *Nicola De Cao et.al.* ICLR 2021. [[code](https://github.com/facebookresearch/GENRE)]
+- 
 
 ## Late Interaction
 - [Poly-encoders: Architectures and pre-training strategies for fast and accurate multi-sentence scoring.](https://arxiv.org/pdf/1905.01969.pdf) *Samuel Humeau,Kurt Shuster et.al.* ICLR 2020. [[code](https://github.com/facebookresearch/ParlAI/tree/master/projects/polyencoder)] (**Poly-encoders**)
