@@ -33,6 +33,7 @@
 - [XOR QA: Cross-lingual Open-Retrieval Question Answering.](https://arxiv.org/abs/2010.11856) *Akari Asai et.al.* NAACL 2021. [[code](https://nlp.cs.washington.edu/xorqa)]
 - [Autoregressive Entity Retrieval.](https://arxiv.org/abs/2010.00904) *Nicola De Cao et.al.* ICLR 2021. [[code](https://github.com/facebookresearch/GENRE)]
 - [A Replication Study of Dense Passage Retriever.](https://arxiv.org/pdf/2104.05740.pdf) *Xueguang Ma et.al.* Arxiv 2021.
+- [The Curse of Dense Low-Dimensional Information Retrieval for Large Index Sizes.](https://arxiv.org/abs/2012.14210) *Nils Reimers et.al.* ACL 2021.
 
 ## Late Interaction
 - [Poly-encoders: Architectures and pre-training strategies for fast and accurate multi-sentence scoring.](https://arxiv.org/pdf/1905.01969.pdf) *Samuel Humeau,Kurt Shuster et.al.* ICLR 2020. [[code](https://github.com/facebookresearch/ParlAI/tree/master/projects/polyencoder)] (**Poly-encoders**)
