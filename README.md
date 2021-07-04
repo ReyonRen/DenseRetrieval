@@ -11,18 +11,21 @@
 - [Dense Retrieval with Ad-hoc Architecture](#dense-retrieval-with-ad-hoc-architecture)
   - [Late Interaction](#late-interaction)
   - [Incorporating Sparse Representation](#incorporating-sparse-representation)
-- [Design Specific Training Procedure](#design-specific-training-precedure)
+- [Design Specific Training Procedure](#design-specific-training-procedure)
   - [Design Pre-training Task](#design-pre-training-task)
     - [Fine-tuning on Original Task](#fine-tuning-on-original-task)
     - [Fine-tuning on Other Task](#fine-tuning-on-other-task)
   - [Training with Expertal Task](#training-with-external-task)
-    - [End-to-End Training](#end-to-end-trining)
-    - [Multi-task Training](#multi-task-learning)
-- [Data Construction and Sampling](#data-augmentation-and-sampling-strategy)
-  - [Data Augmentation]
-    - [Incorporating External Information](#incorporating-ecternal-information)
+    - [End-to-End Training](#end-to-end-training)
+    - [Multi-task Training](#multi-task-training)
+- [Data Construction and Sampling](#data-construction-and-sampling)
+  - [Data Augmentation](#data-augmentation)
+    - [Incorporating External Information](#incorporating-external-information)
     - [Utilizing Related Model for Denoising and Distillation](#utilizing-related-model-for-denoising-and-distillation)
-  - [Sampling Strategy]
+  - [Sampling Strategy](#sampling-strategy)
+- [Dense Retrieval for Downstream Task](#dense-retrieval-for-downstream-task)
+  - [Question Answering](#question-answering)
+  - [Re-ranking](#re-ranking)
 - [Dataset](#dataset)
 - [Other Resources](#other-resources)
   - [Some Retrieval Toolkits](#some-retrieval-toolkits)
@@ -40,7 +43,6 @@
 - [Learning To Retrieve: How to Train a Dense Retrieval Model Effectively and Efficiently.](https://arxiv.org/abs/2010.10469) *Jingtao Zhan et.al.* Arxiv 2020.
 - [Sparse, Dense, and Attentional Representations for Text Retrieval](https://arxiv.org/pdf/2005.00181.pdf) *Yi Luan et.al.* TACL 2020. [[code](https://github.com/google-research/language/tree/master/language/multivec)] (**ME-BERT**)
 - [Answering Complex Open-Domain Questions with Multi-Hop Dense Retrieval.](https://arxiv.org/pdf/2009.12756.pdf) *Wenhan Xiong at.el.* ICLR 2021 [[code](https://github.com/facebookresearch/multihop_dense_retrieval)]
-- [XOR QA: Cross-lingual Open-Retrieval Question Answering.](https://arxiv.org/abs/2010.11856) *Akari Asai et.al.* NAACL 2021. [[code](https://nlp.cs.washington.edu/xorqa)]
 - [Autoregressive Entity Retrieval.](https://arxiv.org/abs/2010.00904) *Nicola De Cao et.al.* ICLR 2021. [[code](https://github.com/facebookresearch/GENRE)]
 - [A Replication Study of Dense Passage Retriever.](https://arxiv.org/pdf/2104.05740.pdf) *Xueguang Ma et.al.* Arxiv 2021.
 - [The Curse of Dense Low-Dimensional Information Retrieval for Large Index Sizes.](https://arxiv.org/abs/2012.14210) *Nils Reimers et.al.* ACL 2021.
@@ -55,7 +57,7 @@
 
 ## Design Specific Training Procedure
 
-### Design Pre-training Task(s)
+### Design Pre-training Task
 #### Fine-tuning on Original Task
 - [Pre-training tasks for embedding-based large scale retrieval.](https://arxiv.org/pdf/2002.03932.pdf) *Wei-Cheng Chang et.al.* ICLR 2020. (**ICT, BFS and WLP**)
 - PAIR. *Ruiyang Ren, Shangwen Lv et.al.* ACL 2021.
@@ -98,7 +100,13 @@
 
 ### Sampling Strategy
 
-## Datasets for Dense Retrieval
+## Dense Retrieval for Downstream Task
+### Question Answering
+- [XOR QA: Cross-lingual Open-Retrieval Question Answering.](https://arxiv.org/abs/2010.11856) *Akari Asai et.al.* NAACL 2021. [[code](https://nlp.cs.washington.edu/xorqa)]
+### Re-ranking
+
+
+## Dataset
 
 ## Other Resources
 
