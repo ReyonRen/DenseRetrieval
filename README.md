@@ -136,10 +136,10 @@
 - [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT.](https://arxiv.org/pdf/2004.12832.pdf) *Omar Khattab et.al.* SIGIR 2020. [[code](https://github.com/stanford-futuredata/ColBERT)] (**ColBERT**)
 
 ## Dataset
-BEIR
-NQ
-MARCO
-TriviaQA
+- [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663) *Nandan Thakur et.al.* Arxiv 2021.
+- [MS MARCO: A Human Generated MAchine Reading COmprehension Dataset](https://arxiv.org/pdf/1611.09268.pdf) *Payal Bajaj et.al.* NIPS 2016.
+- [Natural Questions: a Benchmark for Question Answering Research](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/1f7b46b5378d757553d3e92ead36bda2e4254244.pdf) *Tom Kwiatkowski et.al.* TACL 2019.
+- [TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension.](https://arxiv.org/abs/1705.03551) *Mandar Joshi et.al.* ACL 2017.
 
 
 ## Other Resources
