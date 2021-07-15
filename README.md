@@ -108,7 +108,7 @@
 - [Context-Aware Document Term Weighting for Ad-Hoc Search.](https://dl.acm.org/doi/pdf/10.1145/3366423.3380258) *Zhuyun Dai et al.* WWW 2020. [[code](https://github.com/AdeDZY/DeepCT/tree/master/HDCT)] (**HDCT**)
 - [Learning Passage Impacts for Inverted Indexes.](https://arxiv.org/pdf/2104.12016.pdf) *Antonio Mallia et al.* SIGIR 2021 short. [[code](https://github.com/DI4IR/SIGIR2021)] (**DeepImapct**)
 - [SPLADE: Sparse Lexical and Expansion Model for First Stage Ranking.](https://dl.acm.org/doi/pdf/10.1145/3404835.3463098) *Thibault Formal et al.* SIGIR 2021.
-- [Local Self-Attention over Long Text for Efficient Document Retrieval](https://arxiv.org/pdf/2005.04908v1.pdf) *Sebastian Hofstätter et al.* SIGIR 2021
+- [Local Self-Attention over Long Text for Efficient Document Retrieval](https://arxiv.org/pdf/2005.04908v1.pdf) *Sebastian Hofstätter et al.* SIGIR 2020
 
 ## Dense Retrieval for Downstream Applications
 ### Question Answering
