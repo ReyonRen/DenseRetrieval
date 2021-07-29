@@ -131,7 +131,8 @@
 - [End-to-End Training of Neural Retrievers for Open-Domain Question Answering.](https://arxiv.org/abs/2101.00408) *Devendra Singh Sachan et al.* ACL 2021. [[code](https://github.com/NVIDIA/Megatron-LM)]
 - [Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index.](https://arxiv.org/pdf/1906.05807.pdf) *Minjoon Seo,Jinhyuk Lee et al.* ACL 2019. [[code](https://github.com/uwnlp/denspi)] (**DENSPI**)
 - [Contextualized Sparse Representations for Real-Time Open-Domain Question Answering.](https://arxiv.org/pdf/1911.02896.pdf) *Jinhyuk Lee, Minjoon Seo et al.* ACL 2020. [[code](https://github.com/jhyuklee/sparc)] (**SPARC, sparse vectors**)
-- [Learning Dense Representations of Phrases at Scale.](https://arxiv.org/pdf/2012.12624.pdf) *Jinhyuk Lee, Danqi Chen et al.* ArxiV 2021. [[code](https://github.com/jhyuklee/DensePhrases)] (**DensePhrases**)
+- [Learning Dense Representations of Phrases at Scale.](https://arxiv.org/pdf/2012.12624.pdf) *Jinhyuk Lee, Danqi Chen et al.* Arxiv 2021. [[code](https://github.com/jhyuklee/DensePhrases)] (**DensePhrases**)
+- [Analysing Dense Passage Retrieval for Multi-hop Question Answering.](https://arxiv.org/pdf/2106.08433.pdf) *Georgios Sidiropoulos et al.* Arxiv 2021. 
 
 ### Re-ranking
 - [Sparse, Dense, and Attentional Representations for Text Retrieval](https://arxiv.org/pdf/2005.00181.pdf) *Yi Luan et al.* TACL 2020. [[code](https://github.com/google-research/language/tree/master/language/multivec)] (**ME-BERT**)
