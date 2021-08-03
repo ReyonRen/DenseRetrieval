@@ -46,7 +46,7 @@
 - [REALM: Retrieval-Augmented Language Model Pre-Training.](https://arxiv.org/pdf/2002.08909.pdf) *Kelvin Guu, Kenton Lee et al.* ICML 2020. [[code](https://github.com/google-research/language/blob/master/language/realm/README.md)] (**REALM**)
 - [Simple and Efficient ways to Improve REALM.](https://arxiv.org/abs/2104.08710.pdf) *Vidhisha Balachandran et al.* Arxiv 2021. (**REALM++**)
 - [End-to-End Training of Neural Retrievers for Open-Domain Question Answering.](https://arxiv.org/abs/2101.00408) *Devendra Singh Sachan et al.* ACL 2021. [[code](https://github.com/NVIDIA/Megatron-LM)]
-- [PAIR: Leveraging Passage-Centric Similarity Relation for Improving Dense Passage Retrieval.] *Ruiyang Ren, Shangwen Lv et al.* ACL 2021. [[code](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2021-PAIR)]
+- [PAIR: Leveraging Passage-Centric Similarity Relation for Improving Dense Passage Retrieval.](https://aclanthology.org/2021.findings-acl.191/) *Ruiyang Ren, Shangwen Lv et al.* ACL 2021. [[code](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2021-PAIR)]
 - [Domain-matched Pre-training Tasks for Dense Retrieval](https://arxiv.org/pdf/2107.13602.pdf) *Barlas Oguz, Kushal Lakhotia and Anchit Gupta et al.* Arxiv 2021.
 
 ### End-to-End Training
@@ -79,13 +79,14 @@
 - [Unified Open-Domain Question Answering with Structured and Unstructured Knowledge.](https://arxiv.org/pdf/2012.14610.pdf) *Barlas Oguz et al.* Arxiv 2020.
 - [Unsupervised Document Expansion for Information Retrieval with Stochastic Text Generation.](https://arxiv.org/abs/2105.00666) *Soyeong Jeong et al.* NAACL2021.
 - [Neural Passage Retrieval with Improved Negative Contrast.](https://arxiv.org/abs/2010.12523) *Jing Lu et al.* Arxiv 2020. 
+- [PAIR: Leveraging Passage-Centric Similarity Relation for Improving Dense Passage Retrieval.](https://aclanthology.org/2021.findings-acl.191/) *Ruiyang Ren, Shangwen Lv et al.* ACL 2021. [[code](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2021-PAIR)]
 
 
 ### Utilizing Related Model for Denoising and Distillation
 - [Neural Retrieval for Question Answering with Cross-Attention Supervised Data Augmentation.](https://arxiv.org/abs/2009.13815) *Yinfei Yang et al.* Arxiv 2020.
 - [RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering.](https://arxiv.org/pdf/2010.08191.pdf) *Yingqi Qu et al.* NAACL 2021. (**RocketQA**)
 - [Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks.](https://arxiv.org/abs/2010.08240) *Nandan Thakur et al.* NAACL 2021.
-- [PAIR: Leveraging Passage-Centric Similarity Relation for Improving Dense Passage Retrieval.] *Ruiyang Ren, Shangwen Lv et al.* ACL 2021. [[code](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2021-PAIR)]
+- [PAIR: Leveraging Passage-Centric Similarity Relation for Improving Dense Passage Retrieval.](https://aclanthology.org/2021.findings-acl.191/) *Ruiyang Ren, Shangwen Lv et al.* ACL 2021. [[code](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2021-PAIR)]
 - [Is Retriever Merely an Approximator of Reader?](https://arxiv.org/pdf/2010.10999.pdf) *Sohee Yang et al.* Arxiv 2020.
 - [Distilling Knowledge from Reader to Retriever for Question Answering.](https://openreview.net/pdf?id=NTEz-6wysdb) *Gautier Izacard, Edouard Grave* ICLR 2021. [[code](github.com/facebookresearch/FiD)]
 - [Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling.](https://arxiv.org/pdf/2104.06967.pdf) *Sebastian Hofstätter et al.* SIGIR 2021.[[code](https://github.com/sebastian-hofstaetter/tas-balanced-dense-retrieval)] (**TAS-Balanced**)
@@ -111,6 +112,8 @@
 - [Learning Passage Impacts for Inverted Indexes.](https://arxiv.org/pdf/2104.12016.pdf) *Antonio Mallia et al.* SIGIR 2021 short. [[code](https://github.com/DI4IR/SIGIR2021)] (**DeepImapct**)
 - [SPLADE: Sparse Lexical and Expansion Model for First Stage Ranking.](https://dl.acm.org/doi/pdf/10.1145/3404835.3463098) *Thibault Formal et al.* SIGIR 2021.
 - [Local Self-Attention over Long Text for Efficient Document Retrieval](https://arxiv.org/pdf/2005.04908v1.pdf) *Sebastian Hofstätter et al.* SIGIR 2020
+- [BERT-based Dense Retrievers Require Interpolation
+with BM25 for Effective Passage Retrieval.](https://espace.library.uq.edu.au/data/UQ_006a894/shuai2021interpolateDR.pdf?dsi_version=ed279d6cfbcc051a0067eb647d384567&Expires=1627966047&Key-Pair-Id=APKAJKNBJ4MJBJNC6NLQ&Signature=ICspaGP2y7Rm~H38mGz2YUeY7DleOyCemVm9zH6KPONEkNBPnSP-s39G9bTgsxlZvkXYBsy~W5YrJdWWcbmW7XT3MXAOA67W47ApvB2ov1eafpljmgBbDbBtSdyLqIEulP3Ty21t3blNgn6o1hXjJZvyAu19kDJvh-apnJ5~CaebiNYTtLZ72i4XMTUheP3EnEl1sMm92WYSDWX2-UsWT~9JTNF9Bf08S-xbTkl~oQ7dKdKWKyHJNv3TJVGmpvId-2uzxv57o4~ud69koPyNvvxrmtzEF5wSYIA6betv7prAItcU6M7vv36NHMr~9IuPsJYFW2yjG1jXt2IXM-Y8Ew__) *Shuai Wang et al.* ICTIR 2021.
 
 ## Dense Retrieval for Downstream Applications
 ### Question Answering
