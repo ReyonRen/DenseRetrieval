@@ -114,6 +114,7 @@
 - [Local Self-Attention over Long Text for Efficient Document Retrieval](https://arxiv.org/pdf/2005.04908v1.pdf) *Sebastian Hofstätter et al.* SIGIR 2020
 - [BERT-based Dense Retrievers Require Interpolation
 with BM25 for Effective Passage Retrieval.](https://espace.library.uq.edu.au/data/UQ_006a894/shuai2021interpolateDR.pdf?dsi_version=ed279d6cfbcc051a0067eb647d384567&Expires=1627966047&Key-Pair-Id=APKAJKNBJ4MJBJNC6NLQ&Signature=ICspaGP2y7Rm~H38mGz2YUeY7DleOyCemVm9zH6KPONEkNBPnSP-s39G9bTgsxlZvkXYBsy~W5YrJdWWcbmW7XT3MXAOA67W47ApvB2ov1eafpljmgBbDbBtSdyLqIEulP3Ty21t3blNgn6o1hXjJZvyAu19kDJvh-apnJ5~CaebiNYTtLZ72i4XMTUheP3EnEl1sMm92WYSDWX2-UsWT~9JTNF9Bf08S-xbTkl~oQ7dKdKWKyHJNv3TJVGmpvId-2uzxv57o4~ud69koPyNvvxrmtzEF5wSYIA6betv7prAItcU6M7vv36NHMr~9IuPsJYFW2yjG1jXt2IXM-Y8Ew__) *Shuai Wang et al.* ICTIR 2021.
+- [Zero-shot Neural Passage Retrieval via Domain-targeted Synthetic Question Generation.](https://arxiv.org/pdf/2004.14503.pdf) *Ji Ma* Arxiv 2021.
 
 ## Dense Retrieval for Downstream Applications
 ### Question Answering
