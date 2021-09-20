@@ -153,8 +153,7 @@ with BM25 for Effective Passage Retrieval.](https://espace.library.uq.edu.au/dat
 - [MS MARCO: A Human Generated MAchine Reading COmprehension Dataset](https://arxiv.org/pdf/1611.09268.pdf) *Payal Bajaj et al.* NIPS 2016.
 - [Natural Questions: a Benchmark for Question Answering Research](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/1f7b46b5378d757553d3e92ead36bda2e4254244.pdf) *Tom Kwiatkowski et al.* TACL 2019.
 - [TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension.](https://arxiv.org/abs/1705.03551) *Mandar Joshi et al.* ACL 2017.
-- [Simple Entity-Centric Questions Challenge Dense Retrievers.](https://arxiv.org/pdf/2109.08535.pdf) *Christopher Sciavolino et al.* Arxiv 2021.[[code](https://
-github.com/princeton-nlp/EntityQuestions)]
+- [Simple Entity-Centric Questions Challenge Dense Retrievers.](https://arxiv.org/pdf/2109.08535.pdf) *Christopher Sciavolino et al.* Arxiv 2021. [[code](https://github.com/princeton-nlp/EntityQuestions)]
 
 ## Other Resources
 
