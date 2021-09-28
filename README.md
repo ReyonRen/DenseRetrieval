@@ -86,7 +86,7 @@
 
 
 ### Utilizing Related Model for Denoising and Distillation
-- [Neural Retrieval for Question Answering with Cross-Attention Supervised Data Augmentation.](https://arxiv.org/abs/2009.13815) *Yinfei Yang et al.* Arxiv 2020.
+- [Neural Retrieval for Question Answering with Cross-Attention Supervised Data Augmentation.](https://arxiv.org/abs/2009.13815) *Yinfei Yang et al.* ACL 2021.
 - [RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering.](https://arxiv.org/pdf/2010.08191.pdf) *Yingqi Qu et al.* NAACL 2021. (**RocketQA**)
 - [Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks.](https://arxiv.org/abs/2010.08240) *Nandan Thakur et al.* NAACL 2021.
 - [PAIR: Leveraging Passage-Centric Similarity Relation for Improving Dense Passage Retrieval.](https://aclanthology.org/2021.findings-acl.191/) *Ruiyang Ren, Shangwen Lv et al.* ACL 2021. [[code](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2021-PAIR)]
