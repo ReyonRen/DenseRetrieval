@@ -29,8 +29,8 @@
 
  
 ## Survey Paper
-| **Paper** | **Author** | **Venue** | **Year** | **Code** |
-| --- | --- | --- | --- | --- |
+| **Paper** | **Author** | **Venue** | **Code** |
+| --- | --- | --- | --- |
 | [Pretrained Transformers for Text Ranking: BERT and Beyond.](https://arxiv.org/abs/2010.06467) | Jimmy Lin et al. | Synthesis Lectures on Human Language Technologies 2021 | NA |
 | [Semantic Models for the First-stage Retrieval: A Comprehensive Review.](https://arxiv.org/pdf/2103.04831.pdf) | 	Yinqiong Cai et al. | Arxiv 2021 | NA |
 
