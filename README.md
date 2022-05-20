@@ -8,33 +8,31 @@
 ## Table of Contents
 
 - [Survey paper](#survey-paper)
-- [Training Procedure](#training-procedure)
-  - [Design Pre-training Tasks](#design-pre-training-tasks)
-  - [End-to-End Training](#end-to-end-training)
-  - [Multi-task Training](#multi-task-training)
-- [Data Augmentation](#data-augmentation)
-  - [Sampling Strategies](#sampling-strategies)
-  - [Utilizing External Information](#utilizing-external-information)
-  - [Utilizing Related Model for Denoising and Distillation](#utilizing-related-model-for-denoising-and-distillation)
-- [Dense Retrieval for Downstream Applications](#dense-retrieval-for-downstream-applications)
+- [Architecture](#utilizing-external-information) 
+- [Training](#training)
+  - [Negative Selection](#end-to-end-training)
+  - [Data Augmentation](#data-augmentation)
+  - [Pre-training](#pre-training)
+- [Indexing](#indexing)
+- [Interation with Re-ranking](#interation-with-re-ranking)
+- [Advanced Topics](#advanced-topics)
+- [Applications to Downstream Tasks](#applications-to-downstream-tasks)
   - [Question Answering](#question-answering)
-  - [Re-ranking](#re-ranking)
-- [Tailored Architecture](#tailored-architecture)
-  - [Late Interaction](#late-interaction)
-  - [Incorporating Sparse Retrieval](#incorporating-sparse-retrieval)
+  - [Entity Linking](#entity-linking)
+  - [Dialog](#dialog)
+  - [Retrieval-augmented Language Model](retrieval-augmented-language-model)
 - [Dataset](#dataset)
 - [Other Resources](#other-resources)
-  - [Some Retrieval Toolkits](#some-retrieval-toolkits)
+  - [Toolkits](#some-retrieval-toolkits)
   - [Other Summaries](#other-summaries)
 
 
  
 ## Survey Paper
-- [Pretrained Transformers for Text Ranking: BERT and Beyond.](https://arxiv.org/abs/2010.06467) *Jimmy Lin et al.*
-- [Semantic Models for the First-stage Retrieval: A Comprehensive Review.](https://arxiv.org/pdf/2103.04831.pdf) *Yinqiong Cai et al.*
-
-
-
+| **Paper** | **Author** | **Venue** | **Year** | **Code** |
+| --- | --- | --- | --- | --- |
+| [Pretrained Transformers for Text Ranking: BERT and Beyond.](https://arxiv.org/abs/2010.06467) | Jimmy Lin et al. | Synthesis Lectures on Human Language Technologies 2021 | NA |
+| [Semantic Models for the First-stage Retrieval: A Comprehensive Review.](https://arxiv.org/pdf/2103.04831.pdf) | 	Yinqiong Cai et al. | Arxiv 2021 | NA |
 
 
 ## Training Procedure
