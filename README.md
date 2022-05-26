@@ -10,6 +10,7 @@
 - [Survey paper](#survey-paper)
 - [Architecture](#utilizing-external-information) 
 - [Training](#training)
+  - [Formulation](#formulation)
   - [Negative Selection](#end-to-end-training)
   - [Data Augmentation](#data-augmentation)
   - [Pre-training](#pre-training)
@@ -33,11 +34,46 @@
 | --- | --- | --- | --- |
 | [Pretrained Transformers for Text Ranking: BERT and Beyond.](https://arxiv.org/abs/2010.06467) | Jimmy Lin et al. | Synthesis Lectures on Human Language Technologies 2021 | NA |
 | [Semantic Models for the First-stage Retrieval: A Comprehensive Review.](https://arxiv.org/pdf/2103.04831.pdf) | 	Yinqiong Cai et al. | Arxiv 2021 | NA |
+| [Pre-training Methods in Information Retrieval](https://arxiv.org/pdf/2111.13853) | Yixing Fan et al. | Arxiv 2021 | NA |
+| []() |  |  |  |
 
 
-## Training Procedure
+## Architecture
+| **Paper** | **Author** | **Venue** | **Code** |
+| --- | --- | --- | --- |
+| [Poly-encoders: Architectures and pre-training strategies for fast and accurate multi-sentence scoring.](https://arxiv.org/pdf/1905.01969.pdf) | Samuel Humeau et al. | ICLR 2020 | [Python](https://github.com/facebookresearch/ParlAI/tree/master/projects/polyencoder) |
+| [Sparse, Dense, and Attentional Representations for Text Retrieval.](https://arxiv.org/pdf/2005.00181.pdf) | Yi Luan et al. | TACL 2021 | [Python](https://github.com/google-research/language/tree/master/language/multivec) |
+| [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT.](https://arxiv.org/pdf/2004.12832.pdf) | Omar Khattab et al. | SIGIR 2020 | [Python](https://github.com/stanford-futuredata/ColBERT) |
+| [Query Embedding Pruning for Dense Retrieval.](https://arxiv.org/pdf/2108.10341) | Tonellotto et al. | CIKM 2021 | [Python](https://github.com/terrierteam/pyterrier_colbert) |
+| [DC-BERT: Decoupling Question and Document for Efficient Contextual Encoding.](https://arxiv.org/pdf/2002.12591.pdf) | Yuyu Zhang et al. | SIGIR 2020 | NA |
+| [Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index.](https://arxiv.org/pdf/1906.05807.pdf)) | Minjoon Seo et al. | ACL 2019 | [Python](https://github.com/uwnlp/denspi) |
+| [Learning Dense Representations of Phrases at Scale.](https://arxiv.org/pdf/2012.12624.pdf) | Jinhyuk Lee et al. | ACL 2021 | [Python](https://github.com/jhyuklee/DensePhrases) |
+| [Phrase Retrieval Learns Passage Retrieval, Too. ](https://arxiv.org/pdf/2109.08133.pdf) | Jinhyuk Lee et al. | EMNLP 2021 | [Python](https://github.com/princeton-nlp/DensePhrases.) |
+| [Dense Hierarchical Retrieval for Open-Domain Question Answering.](https://arxiv.org/pdf/2110.15439) | Ye Liu et al. | EMNLP 2021 | [Python](https://github.com/yeliu918/DHR) |
+| [The Curse of Dense Low-Dimensional Information Retrieval for Large Index Sizes.](https://arxiv.org/pdf/2012.14210) | Nils Reimers et al. | ACL 2021 |  NA |
+| [Local Self-Attention over Long Text for Efficient Document Retrieval.](https://arxiv.org/pdf/2005.04908v1.pdf) | Sebastian Hofstätter et al. | SIGIR 2020 | [Python](https://github.com/sebastian-hofstaetter/transformer-kernel-ranking) |
+| [Predicting Efficiency/Effectiveness Trade-offs for Dense vs. Sparse Retrieval Strategy Selection.](https://arxiv.org/pdf/2109.10739) | Negar Arabzadeh et al. | CIKM 2021 | [Python](https://github.com/Narabzad/Retrieval-Strategy-Selection.) |
 
-### Design Pre-training Tasks
+## Training
+### Formulation
+| **Paper** | **Author** | **Venue** | **Code** |
+| --- | --- | --- | --- |
+| [More Robust Dense Retrieval with Contrastive Dual Learning. ](https://arxiv.org/pdf/2107.07773.pdf) | Yizhi Li et al. | ICTIR 2021 | [Python](https://github.com/thunlp/DANCE) |
+| [PAIR: Leveraging Passage-Centric Similarity Relation for Improving Dense Passage Retrieval.](https://aclanthology.org/2021.findings-acl.191) | Ruiyang Ren et al. | ACL 2021 | [Python](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2021-PAIR) |
+| [xMoCo: Cross Momentum Contrastive Learning for Open-Domain Question Answering.](https://aclanthology.org/2021.acl-long.477.pdf) | Nan Yang et al. |  ACL 2021 | [Python]() |
+| [Pre-training for ad-hoc retrieval: Hyperlink is also you need. ](https://arxiv.org/pdf/2108.09346) | Zhengyi Ma et al. | CIKM 2021 | [Python](https://github.com/zhengyima/anchors) |
+| [A Modern Perspective on Query Likelihood with Deep Generative Retrieval Models.](https://arxiv.org/pdf/2106.13618) | Oleg Lesota et al. | ICTIR 2021 | [Python]() |
+
+### Negative Selection
+| **Paper** | **Author** | **Venue** | **Code** |
+| --- | --- | --- | --- |
+| []() |  |  | [Python]() |
+| []() |  |  | [Python]() |
+| []() |  |  | [Python]() |
+| []() |  |  | [Python]() |
+| []() |  |  | [Python]() |
+| []() |  |  | [Python]() |
+| []() |  |  | [Python]() |
 - [Pre-training tasks for embedding-based large scale retrieval.](https://arxiv.org/pdf/2002.03932.pdf) *Wei-Cheng Chang et al.* ICLR 2020. (**ICT, BFS and WLP**)
 - [Is Your Language Model Ready for Dense Representation Fine-tuning?](https://arxiv.org/pdf/2104.08253.pdf) *Luyu Gao* EMNLP 2021. [[code](https://github.com/luyug/Condenser)]
 - [Unsupervised Corpus Aware Language Model Pre-training for Dense Passage Retrieval](https://arxiv.org/pdf/2108.05540.pdf) *Luyu Gao* Arxiv 2021. [[code](https://github.com/luyug/Condenser)]
