@@ -32,7 +32,7 @@
 ## Survey Paper
 | **Paper** | **Author** | **Venue** | **Code** |
 | --- | --- | --- | --- |
-| [Pretrained Transformers for Text Ranking: BERT and Beyond.](https://arxiv.org/abs/2010.06467) | Jimmy Lin et al. | Synthesis Lectures on Human Language Technologies 2021 | NA |
+| [Pretrained Transformers for Text Ranking: BERT and Beyond.](https://arxiv.org/abs/2010.06467) | Jimmy Lin et al. | Synthesis HLT 2021 | NA |
 | [Semantic Models for the First-stage Retrieval: A Comprehensive Review.](https://arxiv.org/pdf/2103.04831.pdf) | 	Yinqiong Cai et al. | Arxiv 2021 | NA |
 | [Pre-training Methods in Information Retrieval](https://arxiv.org/pdf/2111.13853) | Yixing Fan et al. | Arxiv 2021 | NA |
 | []() |  |  |  |
@@ -40,7 +40,7 @@
 
 ## Architecture
 
-| **Paper** | **Author** | **Venue** | **Code** |
+| **Paper** | **Author** | **Venue**  | **Code** |
 | --- | --- | --- | --- |
 | [Poly-encoders: Architectures and pre-training strategies for fast and accurate multi-sentence scoring.](https://arxiv.org/pdf/1905.01969.pdf) | Samuel Humeau et al. | ICLR 2020 | [Python](https://github.com/facebookresearch/ParlAI/tree/master/projects/polyencoder) |
 | [Sparse, Dense, and Attentional Representations for Text Retrieval.](https://arxiv.org/pdf/2005.00181.pdf) | Yi Luan et al. | <div style="width: 150pt">TACL 2021 | [Python](https://github.com/google-research/language/tree/master/language/multivec) |
@@ -68,13 +68,26 @@
 ### Negative Selection
 | **Paper** | **Author** | **Venue** | **Code** |
 | --- | --- | --- | --- |
+| [Learning To Retrieve: How to Train a Dense Retrieval Model Effectively and Efficiently.](https://arxiv.org/abs/2010.10469) | Jingtao Zhan et al. | Arxiv 2020 | NA |
 | []() |  |  | [Python]() |
 | []() |  |  | [Python]() |
 | []() |  |  | [Python]() |
 | []() |  |  | [Python]() |
 | []() |  |  | [Python]() |
 | []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
+
+- [Learning To Retrieve: How to Train a Dense Retrieval Model Effectively and Efficiently.](https://arxiv.org/abs/2010.10469) *Jingtao Zhan et al.* Arxiv 2020.
+- [Dense Passage Retrieval for Open-Domain Question Answering.](https://arxiv.org/pdf/2004.04906.pdf) *Vladimir Karpukhin,Barlas Oguz et al.* EMNLP 2020 [[code](https://github.com/facebookresearch/DPR)] (**DPR**)
+- [RepBERT: Contextualized Text Embeddings for First-Stage Retrieval.](https://arxiv.org/pdf/2006.15498.pdf) *Jingtao Zhan et al.* Arxiv 2020. [[code](https://github.com/jingtaozhan/RepBERT-Index)] (**RepBERT**)
+- [Optimizing Dense Retrieval Model Training with Hard Negatives.](https://arxiv.org/abs/2104.08051) *Jingtao Zhan et al.* SIGIR 2021. [[code](https://github.com/jingtaozhan/DRhard)]
+- [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval.](https://arxiv.org/pdf/2007.00808.pdf) *Lee Xiong, Chenyan Xiong et al.* Arxiv 2020. [[code](https://github.com/microsoft/ANCE)] (**ANCE**)
+- [Neural Passage Retrieval with Improved Negative Contrast.](https://arxiv.org/abs/2010.12523) *Jing Lu et al.* Arxiv 2020. 
+- [RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering.](https://arxiv.org/pdf/2010.08191.pdf) *Yingqi Qu et al.* NAACL 2021. (**RocketQA**)
+- [Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling.](https://arxiv.org/pdf/2104.06967.pdf) *Sebastian Hofstätter et al.* SIGIR 2021.[[code](https://github.com/sebastian-hofstaetter/tas-balanced-dense-retrieval)] (**TAS-Balanced**)
+
+
+
+
 - [Pre-training tasks for embedding-based large scale retrieval.](https://arxiv.org/pdf/2002.03932.pdf) *Wei-Cheng Chang et al.* ICLR 2020. (**ICT, BFS and WLP**)
 - [Is Your Language Model Ready for Dense Representation Fine-tuning?](https://arxiv.org/pdf/2104.08253.pdf) *Luyu Gao* EMNLP 2021. [[code](https://github.com/luyug/Condenser)]
 - [Unsupervised Corpus Aware Language Model Pre-training for Dense Passage Retrieval](https://arxiv.org/pdf/2108.05540.pdf) *Luyu Gao* Arxiv 2021. [[code](https://github.com/luyug/Condenser)]
