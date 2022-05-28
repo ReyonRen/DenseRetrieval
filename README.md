@@ -69,23 +69,106 @@
 | **Paper** | **Author** | **Venue** | **Code** |
 | --- | --- | --- | --- |
 | [Learning To Retrieve: How to Train a Dense Retrieval Model Effectively and Efficiently.](https://arxiv.org/abs/2010.10469) | Jingtao Zhan et al. | Arxiv 2020 | NA |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
+| [Dense Passage Retrieval for Open-Domain Question Answering.](https://arxiv.org/pdf/2004.04906.pdf) | Vladimir Karpukhin et al. | EMNLP 2020 | [Python](https://github.com/facebookresearch/DPR) |
+| [RepBERT: Contextualized Text Embeddings for First-Stage Retrieval.](https://arxiv.org/pdf/2006.15498.pdf) | Jingtao Zhan et al | Arxiv 2020 | [Python](https://github.com/jingtaozhan/RepBERT-Index) |
+| [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval.](https://arxiv.org/pdf/2007.00808.pdf) | Lee Xiong et al. | ICLR 2021 | [Python](https://github.com/microsoft/ANCE) |
+| [Optimizing Dense Retrieval Model Training with Hard Negatives.](https://arxiv.org/abs/2104.08051) | Jingtao Zhan et al | SIGIR 2021 | [Python](https://github.com/jingtaozhan/DRhard) |
+| [Neural Passage Retrieval with Improved Negative Contrast.](https://arxiv.org/abs/2010.12523) | Jing Lu et al. | Arxiv 2020 | NA |
+| [RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering.](https://arxiv.org/pdf/2010.08191.pdf) | Yingqi Qu et al. | NAACL 2021 | [Python](https://github.com/PaddlePaddle/RocketQA/tree/main/research/RocketQA_NAACL2021) |
+| [Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling.](https://arxiv.org/pdf/2104.06967.pdf) | Sebastian Hofstätter et al. | SIGIR 2021 | [Python](https://github.com/sebastian-hofstaetter/tas-balanced-dense-retrieval) |
+| [Scaling deep contrastive learning batch size under memory limited setup](https://arxiv.org/pdf/2101.06983v2) | Luyu Gao et al. | RepL4NLP 2021 | [Python](https://github.com/luyug/GradCache) |
+| [Multi-stage training with improved negative contrast for neural passage retrieval.](https://aclanthology.org/2021.emnlp-main.492.pdf) | Jing Lu et al. | EMNLP 2021 | NA |
+| [Learning robust dense retrieval models from incomplete relevance labels](https://dl.acm.org/doi/pdf/10.1145/3404835.3463106) | Prafull Prakash et al. | SIGIR 2021 | [Python](https://github.com/purble/RANCE) |
+| [Efficient Training of Retrieval Models Using Negative Cache](https://papers.nips.cc/paper/2021/file/2175f8c5cd9604f6b1e576b252d4c86e-Paper.pdf) | Erik M. Lindgren et al. | NeurIPS 2021 | [Python](NA) |
+| [CODER: An efficient framework for improving retrieval through COntextual Document Embedding Reranking](https://arxiv.org/pdf/2112.08766) | George Zerveas et al. | Arxiv 2021 | NA |
+
+### Data Augmentation
+| **Paper** | **Author** | **Venue** | **Code** |
+| --- | --- | --- | --- |
 | []() |  |  | [Python]() |
 | []() |  |  | [Python]() |
 
-- [Learning To Retrieve: How to Train a Dense Retrieval Model Effectively and Efficiently.](https://arxiv.org/abs/2010.10469) *Jingtao Zhan et al.* Arxiv 2020.
-- [Dense Passage Retrieval for Open-Domain Question Answering.](https://arxiv.org/pdf/2004.04906.pdf) *Vladimir Karpukhin,Barlas Oguz et al.* EMNLP 2020 [[code](https://github.com/facebookresearch/DPR)] (**DPR**)
-- [RepBERT: Contextualized Text Embeddings for First-Stage Retrieval.](https://arxiv.org/pdf/2006.15498.pdf) *Jingtao Zhan et al.* Arxiv 2020. [[code](https://github.com/jingtaozhan/RepBERT-Index)] (**RepBERT**)
-- [Optimizing Dense Retrieval Model Training with Hard Negatives.](https://arxiv.org/abs/2104.08051) *Jingtao Zhan et al.* SIGIR 2021. [[code](https://github.com/jingtaozhan/DRhard)]
-- [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval.](https://arxiv.org/pdf/2007.00808.pdf) *Lee Xiong, Chenyan Xiong et al.* Arxiv 2020. [[code](https://github.com/microsoft/ANCE)] (**ANCE**)
-- [Neural Passage Retrieval with Improved Negative Contrast.](https://arxiv.org/abs/2010.12523) *Jing Lu et al.* Arxiv 2020. 
-- [RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering.](https://arxiv.org/pdf/2010.08191.pdf) *Yingqi Qu et al.* NAACL 2021. (**RocketQA**)
-- [Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling.](https://arxiv.org/pdf/2104.06967.pdf) *Sebastian Hofstätter et al.* SIGIR 2021.[[code](https://github.com/sebastian-hofstaetter/tas-balanced-dense-retrieval)] (**TAS-Balanced**)
+### Pre-training
+| **Paper** | **Author** | **Venue** | **Code** |
+| --- | --- | --- | --- |
+| []() |  |  | [Python]() |
+| []() |  |  | [Python]() |
+
+## Indexing
+| **Paper** | **Author** | **Venue** | **Code** |
+| --- | --- | --- | --- |
+| []() |  |  | [Python]() |
+| []() |  |  | [Python]() |
 
 
+## Interation with Re-ranking
+| **Paper** | **Author** | **Venue** | **Code** |
+| --- | --- | --- | --- |
+| []() |  |  | [Python]() |
+| []() |  |  | [Python]() |
+
+
+## Advanced Topics
+| **Paper** | **Author** | **Venue** | **Code** |
+| --- | --- | --- | --- |
+| []() |  |  | [Python]() |
+| []() |  |  | [Python]() |
+
+## Applications to Downstream Tasks
+### Question Answering
+| **Paper** | **Author** | **Venue** | **Code** |
+| --- | --- | --- | --- |
+| []() |  |  | [Python]() |
+| []() |  |  | [Python]() |
+
+### Entity Linking
+| **Paper** | **Author** | **Venue** | **Code** |
+| --- | --- | --- | --- |
+| []() |  |  | [Python]() |
+| []() |  |  | [Python]() |
+
+### Dialog
+| **Paper** | **Author** | **Venue** | **Code** |
+| --- | --- | --- | --- |
+| []() |  |  | [Python]() |
+| []() |  |  | [Python]() |
+
+### Retrieval-augmented Language Model
+| **Paper** | **Author** | **Venue** | **Code** |
+| --- | --- | --- | --- |
+| []() |  |  | [Python]() |
+| []() |  |  | [Python]() |
+
+## Dataset
+| **Paper** | **Author** | **Venue** | **Code** |
+| --- | --- | --- | --- |
+| []() |  |  | [Python]() |
+| []() |  |  | [Python]() |
+
+## Other Resources
+### Toolkits
+| **Paper** | **Author** | **Venue** | **Code** |
+| --- | --- | --- | --- |
+| []() |  |  | [Python]() |
+| []() |  |  | [Python]() |
+
+### Other Summaries
+| **Paper** | **Author** | **Venue** | **Code** |
+| --- | --- | --- | --- |
+| []() |  |  | [Python]() |
+| []() |  |  | [Python]() |
+
+](#interation-with-re-ranking)
+- [Advanced Topics](#advanced-topics)
+- [Applications to Downstream Tasks](#applications-to-downstream-tasks)
+  - [Question Answering](#question-answering)
+  - [Entity Linking](#entity-linking)
+  - [Dialog](#dialog)
+  - [Retrieval-augmented Language Model](retrieval-augmented-language-model)
+- [Dataset](#dataset)
+- [Other Resources](#other-resources)
+  - [Toolkits](#some-retrieval-toolkits)
+  - [Other Summaries](#other-summaries)
 
 
 - [Pre-training tasks for embedding-based large scale retrieval.](https://arxiv.org/pdf/2002.03932.pdf) *Wei-Cheng Chang et al.* ICLR 2020. (**ICT, BFS and WLP**)
