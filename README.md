@@ -45,7 +45,7 @@
 | [Poly-encoders: Architectures and pre-training strategies for fast and accurate multi-sentence scoring.](https://arxiv.org/pdf/1905.01969.pdf) | Samuel Humeau et al. | ICLR 2020 | [Python](https://github.com/facebookresearch/ParlAI/tree/master/projects/polyencoder) |
 | [Sparse, Dense, and Attentional Representations for Text Retrieval.](https://arxiv.org/pdf/2005.00181.pdf) | Yi Luan et al. | <div style="width: 150pt">TACL 2021 | [Python](https://github.com/google-research/language/tree/master/language/multivec) |
 | [ColBERT: Efficient and Effective Passage Search via Contextualized Late Interaction over BERT.](https://arxiv.org/pdf/2004.12832.pdf) | Omar Khattab et al. | SIGIR 2020 | [Python](https://github.com/stanford-futuredata/ColBERT) |
-| [Query Embedding Pruning for Dense Retrieval.](https://arxiv.org/pdf/2108.10341) | Tonellotto et al. | CIKM 2021 | [Python](https://github.com/terrierteam/pyterrier_colbert) |
+| [Query Embedding Pruning for Dense Retrieval.](https://arxiv.org/pdf/2108.10341) | Nicola Tonellotto et al. | CIKM 2021 | [Python](https://github.com/terrierteam/pyterrier_colbert) |
 | [DC-BERT: Decoupling Question and Document for Efficient Contextual Encoding.](https://arxiv.org/pdf/2002.12591.pdf) | Yuyu Zhang et al. | SIGIR 2020 | NA |
 | [Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index.](https://arxiv.org/pdf/1906.05807.pdf) | Minjoon Seo et al. | ACL 2019 | [Python](https://github.com/uwnlp/denspi) |
 | [Learning Dense Representations of Phrases at Scale.](https://arxiv.org/pdf/2012.12624.pdf) | Jinhyuk Lee et al. | ACL 2021 | [Python](https://github.com/jhyuklee/DensePhrases) |</div>
