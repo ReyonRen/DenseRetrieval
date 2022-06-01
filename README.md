@@ -95,7 +95,7 @@
 | [Neural Retrieval for Question Answering with Cross-Attention Supervised Data Augmentation.](https://arxiv.org/abs/2009.13815) | Yinfei Yang et al. | ACL 2021 | NA |
 | [Enhancing Dual-Encoders with Question and Answer Cross-Embeddings for Answer Retrieval.](https://aclanthology.org/2021.findings-emnlp.198.pdf) | Yanmeng Wang et al. | EMNLP 2021 | NA |
 | [Pseudo Label based Contrastive Sampling for Long Text Retrieval](https://ieeexplore.ieee.org/abstract/document/9675219) | Le Zhu et al. | IALP 2021 | NA |
-| [Multi-View Document Representation Learning for Open-Domain Dense Retrieval](https://arxiv.org/pdf/2203.08372.pdf) | Shunyu Zhang | ACL 2022 | NA |
+| [Multi-View Document Representation Learning for Open-Domain Dense Retrieval](https://arxiv.org/pdf/2203.08372.pdf) | Shunyu Zhang et al. | ACL 2022 | NA |
 | [Augmenting Document Representations for Dense Retrieval with Interpolation and Perturbation](https://arxiv.org/pdf/2203.07735v2.pdf) | Soyeong Jeong et al. | ACL 2022 | [Python](github.com/starsuzi/DAR) |
 
 ### Pre-training
