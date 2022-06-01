@@ -11,7 +11,7 @@
 - [Architecture](#architecture) 
 - [Training](#training)
   - [Formulation](#formulation)
-  - [Negative Selection](#end-to-end-training)
+  - [Negative Selection](#negative-selection)
   - [Data Augmentation](#data-augmentation)
   - [Pre-training](#pre-training)
 - [Indexing](#indexing)
@@ -268,7 +268,7 @@
 | --- | --- | --- | --- |
 | []() |  |  | [Python]() |
 | []() |  |  | [Python]() |
-
+<!-- 
 ](#interation-with-re-ranking)
 - [Advanced Topics](#advanced-topics)
 - [Applications to Downstream Tasks](#applications-to-downstream-tasks)
@@ -408,4 +408,4 @@ with BM25 for Effective Passage Retrieval.](https://espace.library.uq.edu.au/dat
 - [Anserini: Enabling the Use of Lucene for Information Retrieval Research](https://github.com/castorini/anserini)
 
 ### Other Summaries
-- [awesome-pretrained-models-for-information-retrieval](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval)
+- [awesome-pretrained-models-for-information-retrieval](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval) -->
