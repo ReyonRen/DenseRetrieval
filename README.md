@@ -211,42 +211,31 @@
 
 
 ## Applications to Downstream Tasks
-### Question Answering
 | **Paper** | **Author** | **Venue** | **Code** |
 | --- | --- | --- | --- |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
-
-### Entity Linking
-| **Paper** | **Author** | **Venue** | **Code** |
-| --- | --- | --- | --- |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
-
-### Dialog
-| **Paper** | **Author** | **Venue** | **Code** |
-| --- | --- | --- | --- |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
-
-### Retrieval-augmented Language Model
-| **Paper** | **Author** | **Venue** | **Code** |
-| --- | --- | --- | --- |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
+| [Leveraging Passage Retrieval with Generative Models for Open Domain Question Answering.](https://aclanthology.org/2021.eacl-main.74.pdf) | Gautier Izacard et al. | ECAL 2021 | [Python](https://github.com/facebookresearch/FiD) |
+| [Baleen: Robust Multi-Hop Reasoning at Scale via Condensed Retrieval.](https://arxiv.org/pdf/2101.00436.pdf) | Omar Khattab et al. | NeurIPS 2021 | [Python](https://github.com/stanford-futuredata/Baleen) |
+| [You only need one model for open-domain question answering.](https://arxiv.org/pdf/2112.07381.pdf) | Haejun Lee et al. | Arxiv 2021 | NA |
+| [Zero-Shot Entity Linking by Reading Entity Descriptions.](https://arxiv.org/pdf/1906.07348.pdf) | Lajanugen Logeswaran et al. | ACL 2019 | [Python](https://github.com/lajanugen/zeshel) |
+| [Learning Dense Representations for Entity Retrieval.](https://aclanthology.org/K19-1049.pdf) | Daniel Gillick et al. | CoNLL 2019 | NA |
+| [Scalable Zero-shot Entity Linking with Dense Entity Retrieval.](https://arxiv.org/pdf/1911.03814.pdf) | Ledell Wu et al. | EMNLP 2020 | [Python](https://github.com/facebookresearch/BLINK) |
+| [Retrieval Augmentation Reduces Hallucination in Conversation.](https://arxiv.org/pdf/2104.07567.pdf) | Kurt Shuster et al. | EMNLP 2021 | NA |
+| [PLATO-KAG: Unsupervised Knowledge-Grounded Conversation.](https://aclanthology.org/2021.nlp4convai-1.14.pdf) | Xinxian Huang et al. | NLP4ConvAI 2021 | [Python](https://github.com/PaddlePaddle/Knover/tree/develop/projects/PLATO-KAG) |
+| [Internet-Augmented Dialogue Generation.](https://arxiv.org/pdf/2107.07566) | Mojtaba Komeili et al. | ACL 2022 | NA |
+| [LaMDA: Language Models for Dialog Applications.](https://arxiv.org/pdf/2201.08239.pdf) | Romal Thoppilan et al. | Arxiv 2022 | NA |
 
 ## Dataset
-| **Paper** | **Author** | **Venue** | **Code** |
+| **Paper** | **Author** | **Venue** | **Link** |
 | --- | --- | --- | --- |
+| [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663) | Nandan Thakur et al. | NeurIPS 2021 | [Python]() |
+| [MS MARCO: A Human Generated MAchine Reading COmprehension Dataset](https://arxiv.org/pdf/1611.09268.pdf) | Payal Bajaj et al. | NeurIPS 2016 | [Python]() |
+| [Natural Questions: a Benchmark for Question Answering Research](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/1f7b46b5378d757553d3e92ead36bda2e4254244.pdf) | Tom Kwiatkowski et al. | TACL 2019 | [Python]() |
+| [TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension.](https://arxiv.org/abs/1705.03551) | Mandar Joshi et al. | ACL 2017 | [Python]() |
 | []() |  |  | [Python]() |
 | []() |  |  | [Python]() |
 | []() |  |  | [Python]() |
 | []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
+| [Simple Entity-Centric Questions Challenge Dense Retrievers.](https://arxiv.org/pdf/2109.08535.pdf) | Christopher Sciavolino et al. | EMNLP 2021 | [Python]() |
 | []() |  |  | [Python]() |
 | []() |  |  | [Python]() |
 | []() |  |  | [Python]() |
