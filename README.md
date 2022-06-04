@@ -235,8 +235,7 @@
 | [TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension.](https://arxiv.org/pdf/1705.03551) | Mandar Joshi et al. | ACL 2017 | [DATA](http://nlp.cs.washington.edu/triviaqa/) |
 | [mMARCO: A Multilingual Version of the MS MARCO Passage Ranking Dataset.](https://arxiv.org/pdf/2108.13897.pdf) | Luiz Henrique Bonifacio et al. | Arxiv 2021 | [DATA](https://github.com/unicamp-dl/mMARCO.git) |
 | [TREC 2019 News Track Overview.](https://trec.nist.gov/pubs/trec28/papers/OVERVIEW.N.pdf) | Ian Soborof et al. | TREC 2019 | [DATA](https://trec.nist.gov/data/wapost/) |
-| [TREC-COVID: rationale and structure of an information retrieval shared task for COVID-19](https://academic.oup.com/jamia/article-pdf/27/9/1431/34153771/ocaa091.pdf) | Kirk Roberts et al. | J Am Med Inform Assoc
-. 2020 | [DATA](https://ir.nist.gov/covidSubmit/) |
+| [TREC-COVID: rationale and structure of an information retrieval shared task for COVID-19](https://academic.oup.com/jamia/article-pdf/27/9/1431/34153771/ocaa091.pdf) | Kirk Roberts et al. | J Am Med Inform Assoc. 2020 | [DATA](https://ir.nist.gov/covidSubmit/) |
 | [A Full-Text Learning to Rank Dataset for Medical Information Retrieval](https://www.cl.uni-heidelberg.de/~riezler/publications/papers/ECIR2016.pdf) | Vera Boteva et al. | ECIR 2016 | [DATA]() |
 | [A Data Collection for Evaluating the Retrieval of Related Tweets to News Articles.](https://research.signal-ai.com/publications/signal1m-tweet-retrieval.pdf) | Axel Suarez et al. | ECIR 2018 | [DATA](https://github.com/igorbrigadir/newsir16-data/tree/master/) |
 | [Overview of Touché 2020: Argument Retrieval.](http://ceur-ws.org/Vol-2696/paper_261.pdf) | Alexander Bondarenko et al. | CLEF 2020 | [DATA](https://touche.webis.de/) |
