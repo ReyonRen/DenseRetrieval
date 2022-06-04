@@ -227,23 +227,38 @@
 ## Dataset
 | **Paper** | **Author** | **Venue** | **Link** |
 | --- | --- | --- | --- |
-| [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663) | Nandan Thakur et al. | NeurIPS 2021 | [Python]() |
-| [MS MARCO: A Human Generated MAchine Reading COmprehension Dataset](https://arxiv.org/pdf/1611.09268.pdf) | Payal Bajaj et al. | NeurIPS 2016 | [Python]() |
-| [Natural Questions: a Benchmark for Question Answering Research](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/1f7b46b5378d757553d3e92ead36bda2e4254244.pdf) | Tom Kwiatkowski et al. | TACL 2019 | [Python]() |
-| [TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension.](https://arxiv.org/abs/1705.03551) | Mandar Joshi et al. | ACL 2017 | [Python]() |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
-| [Simple Entity-Centric Questions Challenge Dense Retrievers.](https://arxiv.org/pdf/2109.08535.pdf) | Christopher Sciavolino et al. | EMNLP 2021 | [Python]() |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
-| []() |  |  | [Python]() |
+| [BEIR: A Heterogenous Benchmark for Zero-shot Evaluation of Information Retrieval Models](https://arxiv.org/abs/2104.08663) | Nandan Thakur et al. | NeurIPS 2021 | [DATA](https://github.com/beir-cellar/beir) |
+| [MS MARCO: A Human Generated MAchine Reading COmprehension Dataset](https://arxiv.org/pdf/1611.09268.pdf) | Payal Bajaj et al. | NeurIPS 2016 | [DATA](https://microsoft.github.io/msmarco/) |
+| [Natural Questions: a Benchmark for Question Answering Research](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/1f7b46b5378d757553d3e92ead36bda2e4254244.pdf) | Tom Kwiatkowski et al. | TACL 2019 | [DATA](https://ai.google.com/research/NaturalQuestions) |
+| [TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension.](https://arxiv.org/pdf/1705.03551) | Mandar Joshi et al. | ACL 2017 | [DATA](http://nlp.cs.washington.edu/triviaqa/) |
+| [mMARCO: A Multilingual Version of the MS MARCO Passage Ranking Dataset.](https://arxiv.org/pdf/2108.13897.pdf) | Luiz Henrique Bonifacio et al. | Arxiv 2021 | [DATA](https://github.com/unicamp-dl/mMARCO.git) |
+| [TREC 2019 News Track Overview.](https://trec.nist.gov/pubs/trec28/papers/OVERVIEW.N.pdf) | Ian Soborof et al. | TREC 2019 | [DATA](https://trec.nist.gov/data/wapost/) |
+| [TREC-COVID: rationale and structure of an information retrieval shared task for COVID-19](https://academic.oup.com/jamia/article-pdf/27/9/1431/34153771/ocaa091.pdf) | Kirk Roberts et al. | J Am Med Inform Assoc
+. 2020 | [DATA](https://ir.nist.gov/covidSubmit/) |
+| [A Full-Text Learning to Rank Dataset for Medical Information Retrieval](https://www.cl.uni-heidelberg.de/~riezler/publications/papers/ECIR2016.pdf) | Vera Boteva et al. | ECIR 2016 | [DATA]() |
+| [A Data Collection for Evaluating the Retrieval of Related Tweets to News Articles.](https://research.signal-ai.com/publications/signal1m-tweet-retrieval.pdf) | Axel Suarez et al. | ECIR 2018 | [DATA](https://github.com/igorbrigadir/newsir16-data/tree/master/) |
+| [Overview of Touché 2020: Argument Retrieval.](http://ceur-ws.org/Vol-2696/paper_261.pdf) | Alexander Bondarenko et al. | CLEF 2020 | [DATA](https://touche.webis.de/) |
+| [Retrieval of the Best Counterargument without Prior Topic Knowledge.](https://aclanthology.org/P18-1023.pdf) | Henning Wachsmuth et al. | ACL 2018 | [DATA](http://www.arguana.com/) |
+| [DBpedia-Entity v2: A Test Collection for Entity Search](https://dl.acm.org/doi/pdf/10.1145/3077136.3080751) | Faegheh Hasibi et al. | SIGIR 2017 | [DATA]() |
+| [ORCAS: 20 Million Clicked Query-Document Pairs for Analyzing Search.](https://arxiv.org/pdf/2006.05324.pdf) | Nick Craswell et al. | CIKM 2020 | [DATA](https://microsoft.github.io/TREC-2020-Deep-Learning/ORCAS) |
+| [TREC 2022 Deep Learning Track Guidelines](https://www.microsoft.com/en-us/research/uploads/prod/2022/05/trec2021-deeplearning-overview.pdf) | Nick Craswell et al. | TREC 2021 | [DATA](https://microsoft.github.io/msmarco/TREC-Deep-Learning-2021) |
+| [DuReader_retrieval: A Large-scale Chinese Benchmark for Passage Retrieval from Web Search Engine.](https://arxiv.org/pdf/2203.10232) | Yifu Qiu et al. | Arxiv 2022 | [DATA](https://github.com/baidu/DuReader/tree/master/DuReader-Retrieval) |
+| [SQuAD: 100,000+ Questions for Machine Comprehension of Text.](https://arxiv.org/pdf/1606.05250.pdf) | Pranav Rajpurkar et al. | EMNLP 2016 | [DATA](https://rajpurkar.github.io/SQuAD-explorer/) |
+| [HOTPOTQA: A Dataset for Diverse, Explainable Multi-hop Question Answering.](https://arxiv.org/pdf/1809.09600.pdf) | Zhilin Yang et al. | EMNLP 2018 | [DATA](https://hotpotqa.github.io/) |
+| [Semantic Parsing on Freebase from Question-Answer Pairs.](https://aclanthology.org/D13-1160.pdf) | Jonathan Berant et al. | EMNLP 2013 | [DATA](http://nlp.stanford.edu/software/sempre/) |
+| [Modeling of the Question Answering Task in the YodaQA System.](https://dl.acm.org/doi/10.1007/978-3-319-24027-5_20) |  | CLEF 2015 | [DATA]() |
+| [WWW'18 Open Challenge: Financial Opinion Mining and Question Answering.](https://dl.acm.org/doi/pdf/10.1145/3184558.3192301) | Macedo Maia et al. | WWW 2018 | [DATA](https://sites.google.com/view/fiqa/home) |
+| [An overview of the BIOASQ large-scale biomedical semantic indexing and question answering competition.](https://bmcbioinformatics.biomedcentral.com/track/pdf/10.1186/s12859-015-0564-6.pdf) | George Tsatsaronis et al. | BMC Bioinform. 2015 | [DATA](http://participants-area.bioasq.org/) |
+| [CQADupStack: A Benchmark Data Set for Community Question-Answering Research.](https://dl.acm.org/doi/pdf/10.1145/2838931.2838934) | Doris Hoogeveen et al. | ADCS 2015 | [DATA](http://nlp.cis.unimelb.edu.au/resources/cqadupstack/) |
+| [First Quora Dataset Release: Question Pairs.](https://data.quora.com/First-Quora-Dataset-Release-Question-Pairs) | Shankar Iyer et al. | Webpage | [DATA](http://qim.ec.quoracdn.net/quora_duplicate_questions.tsv) |
+| [CCQA: A New Web-Scale Question Answering Dataset for Model Pre-Training.](https://arxiv.org/pdf/2110.07731) | Patrick Huber et al. | NAACL 2022 | [DATA](https://github.com/facebookresearch/CCQA) |
+| [FEVER: a Large-scale Dataset for Fact Extraction and VERification.](https://aclanthology.org/N18-1074.pdf) | James Thorne et al. | NAACL 2018 | [DATA](https://fever.ai/) |
+| [CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims.](https://arxiv.org/pdf/2012.00614v2.pdf) | Thomas Diggelmann et al. | NeurIPS 2020 | [DATA](http://climatefever.ai) |
+| [Fact or Fiction: Verifying Scientific Claims.](https://aclanthology.org/2020.emnlp-main.609.pdf) | David Wadden et al. | EMNLP 2020 | [DATA](https://scifact.apps.allenai.org) |
+| [SPECTER: Document-level Representation Learning using Citation-informed Transformers.](https://arxiv.org/pdf/2004.07180.pdf) | Arman Cohan et al. | ACL 2020 | [DATA](https://github.com/allenai/specter) |
+| [Simple Entity-Centric Questions Challenge Dense Retrievers.](https://arxiv.org/pdf/2109.08535.pdf) | Christopher Sciavolino et al. | EMNLP 2021 | [DATA](www.cl.uni-heidelberg.de/statnlpgroup/nfcorpus/) |
 | [ArchivalQA: A Large-scale Benchmark Dataset for Open Domain Question Answering over Archival News Collections.](https://arxiv.org/pdf/2109.03438v2.pdf) | Jiexin Wang et al. | Arxiv 2021 | NA |
-| [SituatedQA: Incorporating Extra-Linguistic Contexts into QA](https://arxiv.org/pdf/2109.06157.pdf) | Michael J.Q. Zhang et al. | EMNLP 2021 | [Python](https://situatedqa.github.io/) |
+| [SituatedQA: Incorporating Extra-Linguistic Contexts into QA]Thomas Diggelmann et al.(https://arxiv.org/pdf/2109.06157.pdf) | Michael J.Q. Zhang et al. | EMNLP 2021 | [DATA](https://situatedqa.github.io/) |
 
 ## Other Resources
 ### Toolkits
