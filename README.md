@@ -31,7 +31,7 @@
 | [Pretrained Transformers for Text Ranking: BERT and Beyond.](https://arxiv.org/abs/2010.06467) | Jimmy Lin et al. | Synthesis HLT 2021 | NA |
 | [Semantic Models for the First-stage Retrieval: A Comprehensive Review.](https://arxiv.org/pdf/2103.04831.pdf) | 	Yinqiong Cai et al. | Arxiv 2021 | NA |
 | [Pre-training Methods in Information Retrieval](https://arxiv.org/pdf/2111.13853) | Yixing Fan et al. | Arxiv 2021 | NA |
-| []() |  |  |  |
+| [A Deep Look into Neural Ranking Models for Information Retrieval.](https://arxiv.org/pdf/1903.06902) | Jiafeng Guo et al. | Inf. Process. Manag. 2020 | NA |
 
 
 ## Architecture
