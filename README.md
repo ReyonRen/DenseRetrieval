@@ -97,6 +97,8 @@
 | [Pseudo Label based Contrastive Sampling for Long Text Retrieval](https://ieeexplore.ieee.org/abstract/document/9675219) | Le Zhu et al. | IALP 2021 | NA |
 | [Multi-View Document Representation Learning for Open-Domain Dense Retrieval](https://arxiv.org/pdf/2203.08372.pdf) | Shunyu Zhang et al. | ACL 2022 | NA |
 | [Augmenting Document Representations for Dense Retrieval with Interpolation and Perturbation](https://arxiv.org/pdf/2203.07735v2.pdf) | Soyeong Jeong et al. | ACL 2022 | [Python](github.com/starsuzi/DAR) |
+| [ERNIE-Search: Bridging Cross-Encoder with Dual-Encoder via Self On-the-fly Distillation for Dense Passage Retrieval.](https://arxiv.org/pdf/2205.09153.pdf) | Yuxiang Lu et al. | Arxiv 2022 | NA |
+
 
 ### Pre-training
 | **Paper** | **Author** | **Venue** | **Code** |
