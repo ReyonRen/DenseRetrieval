@@ -279,3 +279,27 @@
 ### Other Summaries
 [awesome-pretrained-models-for-information-retrieval](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval)
 
+### Newly added
+| [The TREC-8 Question Answering Track Report.](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=151495, https://www.researchgate.net/profile/Ellen-Voorhees/publication/2929514_The_TREC-8_question_answering_track_report/links/00b495370cb9b7c848000000/The-TREC-8-question-answering-track-report.pdf) | Voorhees, Ellen M. | Trec. 1999 | NA
+| [Dense Passage Retrieval for Open-Domain Question Answering.](https://arxiv.org/pdf/2004.04906.pdf) | Karpukhin, Vladimir, et al.  | EMNLP 2020 | [Python](https://github.com/facebookresearch/DPR)
+| [An Information Retrieval Approach to Short Text Conversation](https://arxiv.org/abs/1408.6988) | Ji, Zongcheng, Zhengdong Lu, and Hang Li.  | NA | NA
+| [A Survey on Dialogue Systems: Recent Advances and New Frontiers.](https://arxiv.org/pdf/1711.01731.pdf) | Chen, Hongshen, et al.  | SIGKDD Explor.19 | NA
+| [Learning Dense Representations for Entity Retrieval.](https://arxiv.org/abs/1909.10506) | Gillick, Dan, et al.  | CoNLL 2019 | NA
+| [Scalable Zero-shot Entity Linking with Dense Entity Retrieval.](https://arxiv.org/abs/1911.03814) | Wu, Ledell, et al.  | EMNLP 2020 | NA
+| [Learning to Match Using Local and Distributed Representations of Text for Web Search.](https://arxiv.org/abs/1911.03814) | Mitra, Bhaskar, Fernando Diaz, and Nick Craswell.  | Proceedings of the 26th international conference on world wide web. 2017. | NA
+| [The Thesaurus Approach to Information Retrieval.](https://www.proquest.com/openview/9e93df4b496debb0c058a91f454189c2/1?pq-origsite=gscholar&cbl=1818555) | Joyce, T., and R. M. Needham.  | Journal of the American Society for Information Science 1958 | NA
+| [Some Experiments in the Generation of Word and Document Associations.](https://dl.acm.org/doi/pdf/10.1145/1461518.1461544) | Salton, Gerard.  | AFIPS 1962 (Fall) | NA
+| [A Vector Space Model for Automatic Indexing.](https://dl.acm.org/doi/pdf/10.1145/361219.361220) | Salton, Gerard, Anita Wong, and Chung-Shu Yang.  | Commun. ACM 1975 | NA
+| [Term-weighting Approaches in Automatic Text Retrieva.](https://www.sciencedirect.com/science/article/abs/pii/0306457388900210) | Salton, Gerard, and Christopher Buckley.  | Information processing & management 1988 | NA
+| [An information-theoretic perspective of tf–idf measures.](https://www.sciencedirect.com/science/article/pii/S0306457302000213) | Aizawa, Akiko.  | Information processing & management 2003 | NA
+| [Understanding inverse document frequency: on theoretical arguments for IDF.](https://www.emerald.com/insight/content/doi/10.1108/00220410410560582/full/html) | Robertson, Stephen.  | Journal of documentation 2004 | NA
+| [Inverted Files for Text Search Engines.](https://www.dcs.bbk.ac.uk/~dell/teaching/cc/paper/csur06/p1-zobel.pdf) | Zobel, Justin, and Alistair Moffat. | CSUR 2006 | NA
+| [Inverted Files Versus Signature Files for Text Indexing.](http://www.cs.columbia.edu/~gravano/Qual/Papers/19%20-%20Inverted%20files%20versus%20signature%20files%20for%20text%20indexing.pdf) | Zobel, Justin, Alistair Moffat, and Kotagiri Ramamohanarao. | TODS 1998 | NA 
+| [Okapi at TREC-3](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/okapi_trec3.pdf) | Robertson, S. E., et al. | Nist Special Publication Sp. 1995 | NA
+| [The Probabilistic Relevance Framework: BM25 and Beyond.](https://d1wqtxts1xzle7.cloudfront.net/45195544/The_Probabilistic_Relevance_Framework_BM20160429-6419-mp9qa6-with-cover-page-v2.pdf?Expires=1666585821&Signature=ZyDE9y5Iv28I4RWAME8rFTSz0eaMOnZ0tnM1x6TKaIWXlaOf9T4uBkW2kogzwTDaE1OIK3NWnKA8gZuVFknFay2qlddGDovPza3YZ~c1rlNGyO-qY8QA2JMBHivpF-C~QqELktaqd6BqRjf0psAKiHKTfDOTq-zzZksFJW9z-QRPZyZhQ4V~BSBF~U6qh8aGvgdgEdftUlXF5sJfGAgiXG5W1r5DVaBmZZ1q58b5dZieL-erT0rfzYpgOXpqb0XvQGEXO4k5ft9RB1TjrS~Sfht~yOhZE18FRjpW7z-dNTgqrEKAmcw4lxzoRD4Px-W-VJSIjTZM4ukzlzwO7nrawQ__&Key-Pair-Id=APKAJLOHF5GGSLRBV4ZA) | Robertson, Stephen, and Hugo Zaragoza. | Foundations and Trends® in Information Retrieval. 2009 | NA
+| [LETOR: Benchmark Dataset for Research on Learning to Rank for Information Retrieval.](http://audentia-gestion.fr/MICROSOFT/qin-lr4ir.pdf) | Liu, Tie-Yan. | Proceedings of the 33rd international ACM SIGIR conference on Research and development in information retrieval, 2009 | NA
+| [Learning to Rank for Information Retrieval and Natural Language Processing.](https://www.morganclaypool.com/doi/abs/10.2200/S00348ED1V01Y201104HLT012?journalCode=hlt) | Li H. | Synthesis Lectures on Human Language Technologies. 2011 | NA
+| [Learning Deep Structured Semantic Models for Web Search using Clickthrough Data](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/02/cikm2013_DSSM_fullversion.pdf) | Huang, Po-Sen, et al. | Proceedings of the 22nd ACM international conference on Information & Knowledge Management. 2013 | NA
+| [A Deep Relevance Matching Model for Ad-hoc Retrieval.](https://arxiv.org/pdf/1711.08611.pdf) | Guo, Jiafeng, et al. | Proceedings of the 25th ACM international on conference on information and knowledge management. 2016. | NA
+| [A Deep Look into Neural Ranking Models for Information Retrieval.](https://arxiv.org/pdf/1903.06902.pdf) | Guo, Jiafeng, et al. | Information Processing & Management. 2020 | NA
+| [Neural Models for Information Retrieval](https://arxiv.org/pdf/1705.01509.pdf) | Mitra, Bhaskar, and Nick Craswell. | NA | NA
