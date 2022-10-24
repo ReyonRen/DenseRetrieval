@@ -280,6 +280,8 @@
 [awesome-pretrained-models-for-information-retrieval](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval)
 
 ### Newly added
+| **Paper** | **Author** | **Venue**  | **Code** |
+| --- | --- | --- | --- |
 | [The TREC-8 Question Answering Track Report.](https://tsapps.nist.gov/publication/get_pdf.cfm?pub_id=151495, https://www.researchgate.net/profile/Ellen-Voorhees/publication/2929514_The_TREC-8_question_answering_track_report/links/00b495370cb9b7c848000000/The-TREC-8-question-answering-track-report.pdf) | Voorhees, Ellen M. | Trec. 1999 | NA
 | [Dense Passage Retrieval for Open-Domain Question Answering.](https://arxiv.org/pdf/2004.04906.pdf) | Karpukhin, Vladimir, et al.  | EMNLP 2020 | [Python](https://github.com/facebookresearch/DPR)
 | [An Information Retrieval Approach to Short Text Conversation](https://arxiv.org/abs/1408.6988) | Ji, Zongcheng, Zhengdong Lu, and Hang Li.  | NA | NA
