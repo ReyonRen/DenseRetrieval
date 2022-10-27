@@ -1,7 +1,9 @@
-# Awesome Research for Dense Retrieval
+# Dense Retrieval Papers
 
 
-> A curated list of awesome papers related to dense retrieval.
+> A collection of papers related to dense retrieval. 
+>
+> The classification refers to our survey **"Dense Text Retrieval based on Pretrained Language Models: A Survey"**.
 
 
 
