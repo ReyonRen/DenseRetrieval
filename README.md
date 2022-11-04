@@ -167,7 +167,7 @@
 | [Simple and Efficient ways to Improve REALM](https://arxiv.org/abs/2104.08710.pdf) | Vidhisha Balachandran et al. | Arxiv 2021 | NA |
 | [Towards Robust Neural Retrieval Models with Synthetic Pre-Training.](https://arxiv.org/pdf/2104.07800v1) | Revanth Gangi Reddy et al. | Arxiv 2021 | NA |
 | [Pre-training for ad-hoc retrieval: Hyperlink is also you need.](https://arxiv.org/pdf/2108.09346) | Zhengyi Ma et al. | CIKM 2021 | [Python](https://github.com/zhengyima/anchors) |
-| [Hyperlink-induced Pre-training for Passage Retrieval in Open-domain Question Answering.]() | Jiawei Zhou et al. | ACL 2022 | [Python](https://github.com/jzhoubu/HLP) |
+| [Hyperlink-induced Pre-training for Passage Retrieval in Open-domain Question Answering.](https://arxiv.org/pdf/2203.06942.pdf) | Jiawei Zhou et al. | ACL 2022 | [Python](https://github.com/jzhoubu/HLP) |
 | [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks.](https://arxiv.org/pdf/1908.10084.pdf) | Reimers, Nils, and Iryna Gurevych. | EMNLP-IJCNLP 2019 | [Python](https://github.com/UKPLab/sentence-transformers)
 | [Introducing Neural Bag of Whole-Words with ColBERTer: Contextualized Late Interactions using Enhanced Reduction.](https://arxiv.org/pdf/2203.13088.pdf) | Hofstätter, Sebastian, et al. | ArXiv 2022 | [Python](https://github.com/sebastian-hofstaetter/colberter)
 | [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.](https://arxiv.org/pdf/1810.04805.pdf) | Devlin, Jacob, et al. | NAACL-HLT 2019 | [Python](https://github.com/google-research/bert)
@@ -390,7 +390,7 @@
 | [Overview of Touché 2020: Argument Retrieval.](http://ceur-ws.org/Vol-2696/paper_261.pdf) | Alexander Bondarenko et al. | CLEF 2020 | [DATA](https://touche.webis.de/) |
 | [Retrieval of the Best Counterargument without Prior Topic Knowledge.](https://aclanthology.org/P18-1023.pdf) | Henning Wachsmuth et al. | ACL 2018 | [DATA](http://www.arguana.com/) |
 | [DBpedia-Entity v2: A Test Collection for Entity Search](https://dl.acm.org/doi/pdf/10.1145/3077136.3080751) | Faegheh Hasibi et al. | SIGIR 2017 | [DATA]() |
-| [ORCAS: 20 Million Clicked Query-Document Pairs for Analyzing Search.](https://arxiv.org/pdf/2006.05324.pdf) | Nick Craswell et al. | CIKM 2020 | [DATA](https://microsoft.github.io/TREC-2020-Deep-Learning/ORCAS) |
+| [ORCAS: 20 Million Clicked Query-Document Pairs for Analyzing Search.](https://dl.acm.org/doi/abs/10.1145/3340531.3412779) | Nick Craswell et al. | CIKM 2020 | [DATA](https://microsoft.github.io/TREC-2020-Deep-Learning/ORCAS) |
 | [TREC 2022 Deep Learning Track Guidelines](https://www.microsoft.com/en-us/research/uploads/prod/2022/05/trec2021-deeplearning-overview.pdf) | Nick Craswell et al. | TREC 2021 | [DATA](https://microsoft.github.io/msmarco/TREC-Deep-Learning-2021) |
 | [DuReader_retrieval: A Large-scale Chinese Benchmark for Passage Retrieval from Web Search Engine.](https://arxiv.org/pdf/2203.10232) | Yifu Qiu et al. | Arxiv 2022 | [DATA](https://github.com/baidu/DuReader/tree/master/DuReader-Retrieval) |
 | [SQuAD: 100,000+ Questions for Machine Comprehension of Text.](https://arxiv.org/pdf/1606.05250.pdf) | Pranav Rajpurkar et al. | EMNLP 2016 | [DATA](https://rajpurkar.github.io/SQuAD-explorer/) |
@@ -636,3 +636,5 @@
 | [Semantic Retrieval at Walmart.](https://dl.acm.org/doi/abs/10.1145/3534678.3539164) | Magnani, Alessandro, et al. | KDD 2022 | [Python]()
 | [Are We There Yet? A Decision Framework for Replacing Term-Based Retrieval with Dense Retrieval Systems.](https://arxiv.org/pdf/2206.12993.pdf) | Hofstätter, Sebastian, et al. | ArXiv 2022 | NA
 | [Similarity Search in High Dimensions via Hashing.](https://www.cs.princeton.edu/courses/archive/spring13/cos598C/Gionis.pdf) | Gionis, Aristides, Piotr Indyk, and Rajeev Motwani. | Vldb 1999 | NA
+| [Boosting Search Performance Using Query Variations.](https://dl.acm.org/doi/abs/10.1145/3345001) | Benham, Rodger, et al. | TOIS 2019 | [Codebase](https://github.com/rmit-ir/centroid-boost)
+| [SimANS: Simple Ambiguous Negatives Sampling for Dense Text Retrieval.](https://arxiv.org/abs/2210.11773) | Zhou, Kun, et al. | ArXiv 2022 | [Python](https://github.com/microsoft/SimXNS)
