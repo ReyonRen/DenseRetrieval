@@ -40,7 +40,8 @@
 | [Semantic Models for the First-stage Retrieval: A Comprehensive Review.](https://arxiv.org/pdf/2103.04831.pdf) | 	Yinqiong Cai et al. | Arxiv 2021 | NA |
 | [Pre-training Methods in Information Retrieval](https://arxiv.org/pdf/2111.13853) | Yixing Fan et al. | Arxiv 2021 | NA |
 | [A Deep Look into Neural Ranking Models for Information Retrieval.](https://arxiv.org/pdf/1903.06902) | Jiafeng Guo et al. | Inf. Process. Manag. 2020 | NA |
-[Lecture Notes on Neural Information Retrieval.](https://arxiv.org/pdf/2207.13443.pdf) | Tonellotto, Nicola | ArXiv 2022 | NA
+|[Lecture Notes on Neural Information Retrieval.](https://arxiv.org/pdf/2207.13443.pdf) | Tonellotto, Nicola | Arxiv 2022 | NA
+|[Low-Resource Dense Retrieval for Open-Domain Question Answering: A Comprehensive Survey](https://arxiv.org/pdf/2208.03197.pdf) | Xiaoyu Shen et al. | Arxiv 2022 | NA
 
 
 ## Architecture
