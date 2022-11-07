@@ -129,7 +129,7 @@
 | --- | --- | --- | --- |
 | [Unified Open-domain Question Answering with Structured and Unstructured Knowledge.](https://arxiv.org/pdf/2012.14610v1.pdf) | Barlas Oguz et al. | Arxiv 2021 | NA |
 | [Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks.](https://arxiv.org/abs/2010.08240) | Nandan Thakur et al. | NAACL 2021 | [Python](www.sbert.net) |
-| [Is Retriever Merely an Approximator of Reader?](https://arxiv.org/pdf/2010.10999.pdf) | Sohee Yang et al. | Arxiv 2020 | [Python]() |
+| [Is Retriever Merely an Approximator of Reader?](https://arxiv.org/pdf/2010.10999.pdf) | Sohee Yang et al. | Arxiv 2020 | NA |
 | [Distilling Knowledge from Reader to Retriever for Question Answering.](https://openreview.net/pdf?id=NTEz-6wysdb) | Gautier Izacard et al. | ICLR 2021 | [Python](github.com/facebookresearch/FiD) |
 | [Distilling Knowledge for Fast Retrieval-based Chat-bots.](https://arxiv.org/pdf/2004.11045.pdf) | Amir Vakili Tahami et al. | SIGIR 2020 | [Python](https://github.com/KamyarGhajar/DistilledNeuralResponseRanker) |
 | [Improving Efficient Neural Ranking Models with Cross-Architecture Knowledge Distillation.](https://arxiv.org/pdf/2010.02666.pdf) | Sebastian Hofstätter et al. | Arxiv 2020 | [Python](https://github.com/sebastian-hofstaetter/neural-ranking-kd) |
@@ -141,9 +141,7 @@
 | [Multi-View Document Representation Learning for Open-Domain Dense Retrieval](https://arxiv.org/pdf/2203.08372.pdf) | Shunyu Zhang et al. | ACL 2022 | NA |
 | [Augmenting Document Representations for Dense Retrieval with Interpolation and Perturbation](https://arxiv.org/pdf/2203.07735v2.pdf) | Soyeong Jeong et al. | ACL 2022 | [Python](github.com/starsuzi/DAR) |
 | [ERNIE-Search: Bridging Cross-Encoder with Dual-Encoder via Self On-the-fly Distillation for Dense Passage Retrieval.](https://arxiv.org/pdf/2205.09153.pdf) | Yuxiang Lu et al. | Arxiv 2022 | NA |
-| [Exploring the Limits of Transfer Learning with a Unified Text-to-Text Transformer.](https://www.jmlr.org/papers/volume21/20-074/20-074.pdf?ref=https://githubhelp.com) | Raffel, Colin, et al. | ArXiv 2020 | [Python](https://github.com/google-research/text-to-text-transfer-transformer)
 | [Pro-KD: Progressive Distillation by Following the Footsteps of the Teacher.](https://arxiv.org/pdf/2110.08532.pdf) | Rezagholizadeh, Mehdi, et al. | COLING 2022 | NA
-| [Understanding Knowledge Distillation in Non-autoregressive Machine Translation.](https://arxiv.org/pdf/1911.02727.pdf) | Zhou, Chunting, Graham Neubig, and Jiatao Gu. | ICLR 2020 | NA
 | [Questions Are All You Need to Train a Dense Passage Retriever.](https://arxiv.org/pdf/2206.10658.pdf) | Sachan, Devendra Singh, et al. | ArXiv 2022 | [Python](https://github.com/DevSinghSachan/art)
 | [PROD: Progressive Distillation for Dense Retrieval.](https://arxiv.org/pdf/2209.13335.pdf) | Lin, Zhenghao, et al. | ArXiv 2022 | NA
 
@@ -163,14 +161,11 @@
 | [Condenser: a Pre-training Architecture for Dense Retrieval](https://arxiv.org/pdf/2104.08253.pdf) | Luyu Gao et al. | EMNLP 2021 | [Python](https://github.com/luyug/Condenser) |
 | [TSDAE: Using Transformer-based Sequential Denoising Auto-Encoder for Unsupervised Sentence Embedding Learning.](https://arxiv.org/pdf/2104.06979) | Kexin Wang et al. | EMNLP 2021 | [Python](https://github.com/UKPLab/sentence-transformers/) |
 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings.](https://arxiv.org/pdf/2104.08821.pdf) | Tianyu Gao et al. | EMNLP 2021 | [Python](https://github.com/princeton-nlp/SimCSE) |
-| [Semantic Re-Tuning With Contrastive Tension. ](https://openreview.net/pdf?id=Ov_sMNau-PF) | Fredrik Carlsson et al. | ICLR 2021 | [Python](https://github.com/FreddeFrallan/Contrastive-Tension) |
 | [Simple and Efficient ways to Improve REALM](https://arxiv.org/abs/2104.08710.pdf) | Vidhisha Balachandran et al. | Arxiv 2021 | NA |
 | [Towards Robust Neural Retrieval Models with Synthetic Pre-Training.](https://arxiv.org/pdf/2104.07800v1) | Revanth Gangi Reddy et al. | Arxiv 2021 | NA |
-| [Pre-training for ad-hoc retrieval: Hyperlink is also you need.](https://arxiv.org/pdf/2108.09346) | Zhengyi Ma et al. | CIKM 2021 | [Python](https://github.com/zhengyima/anchors) |
 | [Hyperlink-induced Pre-training for Passage Retrieval in Open-domain Question Answering.](https://arxiv.org/pdf/2203.06942.pdf) | Jiawei Zhou et al. | ACL 2022 | [Python](https://github.com/jzhoubu/HLP) |
 | [Sentence-BERT: Sentence Embeddings using Siamese BERT-Networks.](https://arxiv.org/pdf/1908.10084.pdf) | Reimers, Nils, and Iryna Gurevych. | EMNLP-IJCNLP 2019 | [Python](https://github.com/UKPLab/sentence-transformers)
 | [Introducing Neural Bag of Whole-Words with ColBERTer: Contextualized Late Interactions using Enhanced Reduction.](https://arxiv.org/pdf/2203.13088.pdf) | Hofstätter, Sebastian, et al. | ArXiv 2022 | [Python](https://github.com/sebastian-hofstaetter/colberter)
-| [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.](https://arxiv.org/pdf/1810.04805.pdf) | Devlin, Jacob, et al. | NAACL-HLT 2019 | [Python](https://github.com/google-research/bert)
 | [Learning to Retrieve Passages without Supervision.](https://arxiv.org/pdf/2112.07708.pdf) | Ram, Ori, et al. | ArXiv 2021 |  [Python](https://github.com/oriram/spider)
 | [Text and Code Embeddings by Contrastive Pre-Training.](https://arxiv.org/pdf/2201.10005.pdf) | Neelakantan, Arvind, et al. | ArXiv 2022 | NA
 | [CharacterBERT and Self-Teaching for Improving the Robustness of Dense Retrievers on Queries with Typos.](https://arxiv.org/pdf/2204.00716.pdf) | Zhuang, Shengyao, and Guido Zuccon. | SIGIR 2022 | [Python](https://github.com/ielab/CharacterBERT-DR)
@@ -182,14 +177,6 @@
 | [Synthetic QA Corpora Generation with Roundtrip Consistency.](https://arxiv.org/pdf/1906.05416.pdf) | Alberti, Chris, et al. | ACL 2019 | NA
 | [PAQ: 65 Million Probably-Asked Questions and What You Can Do With Them.](https://web.archive.org/web/20211018163447id_/https://watermark.silverchair.com/tacl_a_00415.pdf) | Lewis, Patrick, et al. | ArXiv 2021 | [Python](https://github.com/facebookresearch/PAQ)
 | [End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems.](https://arxiv.org/pdf/2010.06028.pdf) | Shakeri, Siamak, et al. | EMNLP 2020 | NA
-| [BART: Denoising Sequence-to-Sequence Pre-training for Natural Language Generation, Translation, and Comprehension.](https://arxiv.org/pdf/1910.13461.pdf) | Lewis, Mike, et al. | ArXiv 2020 | NA
-| [Semi-Supervised Recursive Autoencoders for Predicting Sentiment Distributions.](https://aclanthology.org/D11-1014.pdf) | Socher, Richard, et al. | EMNLP 2011 | NA
-| [Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection.](https://proceedings.neurips.cc/paper/2011/file/3335881e06d4d23091389226225e17c7-Paper.pdf) | Socher, Richard, et al. | NIPS 2011 | NA
-| [A Hierarchical Neural Autoencoder for Paragraphs and Documents.](https://arxiv.org/pdf/1506.01057.pdf) | Li, Jiwei, Minh-Thang Luong, and Dan Jurafsky. | ACL 2015 | NA
-| [Semi-supervised Sequence Learning.](https://proceedings.neurips.cc/paper/2015/file/7137debd45ae4d0ab9aa953017286b20-Paper.pdf) | Dai, Andrew M., and Quoc V. Le. | NIPS 2015 | NA
-| [Deep Learning and the Information Bottleneck Principle.](https://arxiv.org/pdf/1503.02406) | Tishby, Naftali, and Noga Zaslavsky. | ITW 2015 | NA
-| [A Simple Framework for Contrastive Learning of Visual Representations.](http://proceedings.mlr.press/v119/chen20j/chen20j.pdf) | Chen, Ting, et al. | ArXiv 2020 | [Python](https://github.com/google-research/simclr)
-| [Momentum Contrast for Unsupervised Visual Representation Learning.](http://openaccess.thecvf.com/content_CVPR_2020/papers/He_Momentum_Contrast_for_Unsupervised_Visual_Representation_Learning_CVPR_2020_paper.pdf) | He, Kaiming, et al. | CVPR 2020 | [Python](https://github.com/facebookresearch/moco)
 | [Pre-train a Discriminative Text Encoder for Dense Retrieval via Contrastive Span Prediction.](https://arxiv.org/pdf/2204.10641) |  | ArXiv 2022 | [Python]()
 | [ConTextual Mask Auto-Encoder for Dense Passage Retrieval.](https://arxiv.org/pdf/2208.07670.pdf) | Wu, Xing, et al. | ArXiv 2022 | [Python](https://github.com/caskcsg/ir)
 | [A Contrastive Pre-training Approach to Learn Discriminative Autoencoder for Dense Retrieval.](https://arxiv.org/pdf/2208.09846.pdf) | X. Ma, et al. | ArXiv 2022 | NA
