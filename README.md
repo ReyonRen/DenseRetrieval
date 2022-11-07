@@ -439,7 +439,7 @@
 
 ### Other Summaries
 [awesome-pretrained-models-for-information-retrieval](https://github.com/Albert-Ma/awesome-pretrained-models-for-information-retrieval)
-
+<!--
 ### Newly added
 | **Paper** | **Author** | **Venue**  | **Code** |
 | --- | --- | --- | --- |
@@ -638,3 +638,4 @@
 | [Similarity Search in High Dimensions via Hashing.](https://www.cs.princeton.edu/courses/archive/spring13/cos598C/Gionis.pdf) | Gionis, Aristides, Piotr Indyk, and Rajeev Motwani. | Vldb 1999 | NA
 | [Boosting Search Performance Using Query Variations.](https://dl.acm.org/doi/abs/10.1145/3345001) | Benham, Rodger, et al. | TOIS 2019 | [Codebase](https://github.com/rmit-ir/centroid-boost)
 | [SimANS: Simple Ambiguous Negatives Sampling for Dense Text Retrieval.](https://arxiv.org/abs/2210.11773) | Zhou, Kun, et al. | ArXiv 2022 | [Python](https://github.com/microsoft/SimXNS)
+-->
