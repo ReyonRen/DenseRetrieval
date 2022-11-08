@@ -373,7 +373,7 @@
 | [Anserini: Enabling the Use of Lucene for Information Retrieval Research.](https://dl.acm.org/doi/pdf/10.1145/3077136.3080721) | Peilin Yang et al. | SIGIR 2017 | [Python](https://github.com/castorini/anserini) |
 | [Tevatron: An Efficient and Flexible Toolkit for Dense Retrieval.](https://arxiv.org/pdf/2203.05765.pdf) | Luyu Gao et al. | Arxiv 2022 | [Python](https://github.com/texttron/tevatron) |
 | [Asyncval: A Toolkit for Asynchronously Validating Dense Retriever Checkpoints during Training.](https://arxiv.org/pdf/2202.12510.pdf) | Shengyao Zhuang et al. | SIGIR 2022 | [Python](https://github.com/ielab/asyncval) |
-| [Pyserini: A Python Toolkit for Reproducible Information Retrieval Research with Sparse and Dense Representations.](https://dl.acm.org/doi/pdf/10.1145/3404835.3463238) | Lin, Jimmy, et al. | SIGIR 2021 | NA
+| [Pyserini: A Python Toolkit for Reproducible Information Retrieval Research with Sparse and Dense Representations.](https://dl.acm.org/doi/pdf/10.1145/3404835.3463238) | Lin, Jimmy, et al. | SIGIR 2021 | [Python](https://github.com/castorini/pyserini)
 | [OpenMatch: An Open Source Library for Neu-IR Research.](https://arxiv.org/pdf/2102.00166.pdf) | Liu, Zhenghao, et al. | SIGIR 2021 | [Python](https://github.com/thunlp/OpenMatch)
 | [SentEval: An Evaluation Toolkit for Universal Sentence Representations.](https://arxiv.org/pdf/1803.05449.pdf) | Conneau, Alexis, and Douwe Kiela. | ArXiv 2018 | [Python](https://github.com/facebookresearch/SentEval)
 
