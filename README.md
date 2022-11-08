@@ -311,7 +311,7 @@
 | **Paper** | **Author** | **Venue** | **Code** |
 | --- | --- | --- | --- |
 | [Pre-trained Language Model for Web-scale Retrieval in Baidu Search.](https://arxiv.org/pdf/2106.03373v3) | Yiding Liu et al. | KDD 2021 | NA |
-| [MOBIUS: Towards the Next Generation of Query-Ad Matching in Baidu’s Sponsored Search](http://research.baidu.com/Public/uploads/5d12eca098d40.pdf) | Miao Fan et al. | KDD 2019 | NA |
+| [MOBIUS: Towards the Next Generation of Query-Ad Matching in Baidu’s Sponsored Search](http://research.baidu.com/Public/uploads/5d12eca098d40.pdf) | Miao Fan | KDD 2019 | NA |
 | [Uni-Retriever: Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search.](https://arxiv.org/pdf/2202.06212.pdf) | Jianjin Zhang et al. | Arxiv 2022 | NA |
 | [Embedding-based Product Retrieval in Taobao Search.](https://arxiv.org/pdf/2106.09297.pdf) | Sen Li et al. | KDD 2021 | NA |
 | [Que2Search: Fast and Accurate Query and Document Understanding for Search at Facebook.](https://scontent-nrt1-1.xx.fbcdn.net/v/t39.8562-6/246795273_2109661252514735_2459553109378891559_n.pdf?_nc_cat=105&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=7LLAz1SvhvcAX9Dr2-E&_nc_ht=scontent-nrt1-1.xx&oh=00_AT_sJBUEVm6mlAYngNn31Oc2BTqokLB9dvcdHTLYsIDCqA&oe=629847E3) | Yiqun Liu et al. | KDD 2021 | NA |
@@ -362,18 +362,16 @@
 
 
 
-## Other Resources
+## Resources
 | **Paper** | **Author** | **Venue** | **Code** |
 | --- | --- | --- | --- |
+| [RocketQA](https://github.com/PaddlePaddle/RocketQA) | --- | webpage | [Python](https://github.com/PaddlePaddle/RocketQA)|
 | [Billion-scale similarity search with GPUs.](https://arxiv.org/pdf/1702.08734) | Jeff Johnson et al. | TBD 2019 | [Python](https://github.com/facebookresearch/faiss) |
 | [Pyserini: An Easy-to-Use Python Toolkit to Support Replicable IR Research with Sparse and Dense Representations](https://arxiv.org/pdf/2102.10073) | Jimmy Lin et al. | Arxiv 2021 | [Python](https://github.com/castorini/pyserini/) |
 | [MatchZoo: A Learning, Practicing, and Developing System for Neural Text Matching.](https://arxiv.org/pdf/1905.10289.pdf) | Jiafeng Guo et al. | SIGIR 2019 | [Python](http://www.bigdatalab.ac.cn/matchzoo/#/) |
-| [Anserini: Enabling the Use of Lucene for Information Retrieval Research.](https://dl.acm.org/doi/pdf/10.1145/3077136.3080721) | Peilin Yang et al. | SIGIR 2017 | [Python](https://github.com/castorini/anserini) |
+| [Anserini: Enabling the Use of Lucene for Information Retrieval Research.](https://dl.acm.org/doi/pdf/10.1145/3077136.3080721) | Peilin Yang et al. | SIGIR 2017 | [Java](https://github.com/castorini/anserini) |
 | [Tevatron: An Efficient and Flexible Toolkit for Dense Retrieval.](https://arxiv.org/pdf/2203.05765.pdf) | Luyu Gao et al. | Arxiv 2022 | [Python](https://github.com/texttron/tevatron) |
 | [Asyncval: A Toolkit for Asynchronously Validating Dense Retriever Checkpoints during Training.](https://arxiv.org/pdf/2202.12510.pdf) | Shengyao Zhuang et al. | SIGIR 2022 | [Python](https://github.com/ielab/asyncval) |
 | [Pyserini: A Python Toolkit for Reproducible Information Retrieval Research with Sparse and Dense Representations.](https://dl.acm.org/doi/pdf/10.1145/3404835.3463238) | Jimmy Lin et al. | SIGIR 2021 | NA
 | [OpenMatch: An Open Source Library for Neu-IR Research.](https://arxiv.org/pdf/2102.00166.pdf) | Zhenghao Liu et al. | SIGIR 2021 | [Python](https://github.com/thunlp/OpenMatch)
 | [SentEval: An Evaluation Toolkit for Universal Sentence Representations.](https://arxiv.org/pdf/1803.05449.pdf) | Alexis Conneau et al. | Arxiv 2018 | [Python](https://github.com/facebookresearch/SentEval)
-| [PaddlePaddle: An Open-source Deep Learning Platform from Industrial Practice.](http://www.jfdc.cnic.cn/EN/10.11871/jfdc.issn.2096.742X.2019.01.011) | Yanjun Ma et al. | Frontiers of Data and Domputing 2019 | [Python & C++](https://github.com/PaddlePaddle/Paddle)
-| [Are We There Yet? A Decision Framework for Replacing Term-Based Retrieval with Dense Retrieval Systems.](https://arxiv.org/pdf/2206.12993.pdf) | Sebastian Hofstätter et al. | Arxiv 2022 | NA
-
