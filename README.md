@@ -28,7 +28,7 @@
   - [Natural Language Processing Applications](#natural-language-processing-applications)
   - [Industrial Practice](#industrial-practice)
 - [Datasets](#datasets)
-- [Other Resources](#other-resources)
+- [Resources](#resources)
 
  
 ## Survey Paper
