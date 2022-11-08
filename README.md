@@ -36,10 +36,10 @@
 | --- | --- | --- | --- |
 | [Pretrained Transformers for Text Ranking: BERT and Beyond.](https://arxiv.org/pdf/2010.06467.pdf) | Jimmy Lin et al. | Synthesis HLT 2021 | NA |
 | [Semantic Models for the First-stage Retrieval: A Comprehensive Review.](https://arxiv.org/pdf/2103.04831.pdf) | 	Yinqiong Cai et al. | Arxiv 2021 | NA |
-| [Pre-training Methods in Information Retrieval](https://arxiv.org/pdf/2111.13853) | Yixing Fan et al. | Arxiv 2021 | NA |
+| [Pre-training Methods in Information Retrieval.](https://arxiv.org/pdf/2111.13853) | Yixing Fan et al. | Arxiv 2021 | NA |
 | [A Deep Look into Neural Ranking Models for Information Retrieval.](https://arxiv.org/pdf/1903.06902) | Jiafeng Guo et al. | Inf. Process. Manag. 2020 | NA |
-|[Lecture Notes on Neural Information Retrieval.](https://arxiv.org/pdf/2207.13443.pdf) | Nicola Tonellotto | Arxiv 2022 | NA
-|[Low-Resource Dense Retrieval for Open-Domain Question Answering: A Comprehensive Survey](https://arxiv.org/pdf/2208.03197.pdf) | Xiaoyu Shen et al. | Arxiv 2022 | NA
+|[Lecture Notes on Neural Information Retrieval.](https://arxiv.org/pdf/2207.13443.pdf) | Nicola Tonellotto. | Arxiv 2022 | NA
+|[Low-Resource Dense Retrieval for Open-Domain Question Answering: A Comprehensive Survey.](https://arxiv.org/pdf/2208.03197.pdf) | Xiaoyu Shen et al. | Arxiv 2022 | NA
 
 
 ## Architecture
@@ -84,7 +84,7 @@
 | [BERT-based Dense Retrievers Require Interpolation with BM25 for Effective Passage Retrieval.](https://arvinzhuang.github.io/files/shuai2021interpolateDR.pdf) | Shuai Wang et al. | ICTIR 2021 | [Python](https://github.com/ielab/InterpolateDR-ICTIR2021) |
 | [A White Box Analysis of ColBERT.](https://arxiv.org/pdf/2012.09650) | Thibault Formal et al. | ECIR 2021 | NA |
 | [Towards Axiomatic Explanations for Neural Ranking Models.](https://arxiv.org/pdf/2106.08019) | Michael Völske et al. | ICTIR 2021 | [Python](https://github.com/webis-de/ICTIR-21) |
-| [ABNIRML: Analyzing the Behavior of Neural IR Models](https://arxiv.org/pdf/2011.00696.pdf) | Sean MacAvaney et al. | Arxiv 2020 | [Python](https://github.com/allenai/abnriml) |
+| [ABNIRML: Analyzing the Behavior of Neural IR Models.](https://arxiv.org/pdf/2011.00696.pdf) | Sean MacAvaney et al. | Arxiv 2020 | [Python](https://github.com/allenai/abnriml) |
 
 
 ## Training
@@ -109,15 +109,15 @@
 | [Dense Passage Retrieval for Open-Domain Question Answering.](https://arxiv.org/pdf/2004.04906.pdf) | Vladimir Karpukhin et al. | EMNLP 2020 | [Python](https://github.com/facebookresearch/DPR) |
 | [RepBERT: Contextualized Text Embeddings for First-Stage Retrieval.](https://arxiv.org/pdf/2006.15498.pdf) | Jingtao Zhan et al. | Arxiv 2020 | [Python](https://github.com/jingtaozhan/RepBERT-Index) |
 | [Approximate Nearest Neighbor Negative Contrastive Learning for Dense Text Retrieval.](https://arxiv.org/pdf/2007.00808.pdf) | Lee Xiong et al. | ICLR 2021 | [Python](https://github.com/microsoft/ANCE) |
-| [Optimizing Dense Retrieval Model Training with Hard Negatives.](https://arxiv.org/abs/2104.08051) | Jingtao Zhan et al | SIGIR 2021 | [Python](https://github.com/jingtaozhan/DRhard) |
+| [Optimizing Dense Retrieval Model Training with Hard Negatives.](https://arxiv.org/abs/2104.08051) | Jingtao Zhan et al. | SIGIR 2021 | [Python](https://github.com/jingtaozhan/DRhard) |
 | [Neural Passage Retrieval with Improved Negative Contrast.](https://arxiv.org/pdf/2010.12523.pdf) | Jing Lu et al. | Arxiv 2020 | NA |
 | [RocketQA: An Optimized Training Approach to Dense Passage Retrieval for Open-Domain Question Answering.](https://arxiv.org/pdf/2010.08191.pdf) | Yingqi Qu et al. | NAACL 2021 | [Python](https://github.com/PaddlePaddle/RocketQA/tree/main/research/RocketQA_NAACL2021) |
 | [Efficiently Teaching an Effective Dense Retriever with Balanced Topic Aware Sampling.](https://arxiv.org/pdf/2104.06967.pdf) | Sebastian Hofstätter et al. | SIGIR 2021 | [Python](https://github.com/sebastian-hofstaetter/tas-balanced-dense-retrieval) |
-| [Scaling deep contrastive learning batch size under memory limited setup](https://arxiv.org/pdf/2101.06983v2) | Luyu Gao et al. | RepL4NLP 2021 | [Python](https://github.com/luyug/GradCache) |
+| [Scaling deep contrastive learning batch size under memory limited setup.](https://arxiv.org/pdf/2101.06983v2) | Luyu Gao et al. | RepL4NLP 2021 | [Python](https://github.com/luyug/GradCache) |
 | [Multi-stage training with improved negative contrast for neural passage retrieval.](https://aclanthology.org/2021.emnlp-main.492.pdf) | Jing Lu et al. | EMNLP 2021 | NA |
-| [Learning robust dense retrieval models from incomplete relevance labels](https://dl.acm.org/doi/pdf/10.1145/3404835.3463106) | Prafull Prakash et al. | SIGIR 2021 | [Python](https://github.com/purble/RANCE) |
-| [Efficient Training of Retrieval Models Using Negative Cache](https://papers.nips.cc/paper/2021/file/2175f8c5cd9604f6b1e576b252d4c86e-Paper.pdf) | Erik M. Lindgren et al. | NeurIPS 2021 | [Python](NA) |
-| [CODER: An efficient framework for improving retrieval through COntextual Document Embedding Reranking](https://arxiv.org/pdf/2112.08766) | George Zerveas et al. | Arxiv 2021 | NA |
+| [Learning robust dense retrieval models from incomplete relevance labels.](https://dl.acm.org/doi/pdf/10.1145/3404835.3463106) | Prafull Prakash et al. | SIGIR 2021 | [Python](https://github.com/purble/RANCE) |
+| [Efficient Training of Retrieval Models Using Negative Cache.](https://papers.nips.cc/paper/2021/file/2175f8c5cd9604f6b1e576b252d4c86e-Paper.pdf) | Erik M. Lindgren et al. | NeurIPS 2021 | [Python](NA) |
+| [CODER: An efficient framework for improving retrieval through COntextual Document Embedding Reranking.](https://arxiv.org/pdf/2112.08766) | George Zerveas et al. | Arxiv 2021 | NA |
 | [Curriculum Learning for Dense Retrieval Distillation.](https://arxiv.org/pdf/2204.13679.pdf) | Hansi Zeng et al. | SIGIR 2022 | [Python](https://github.com/HansiZeng/CL-DRD)
 
 ### Data Augmentation
@@ -133,9 +133,9 @@
 | [In-Batch Negatives for Knowledge Distillation with Tightly-Coupled Teachers for Dense Retrieval.](https://aclanthology.org/2021.repl4nlp-1.17.pdf) | Sheng-Chieh Lin et al. | RepL4NLP 2021 | [Python](https://github.com/castorini/pyserini/blob/master/docs/experiments-tct_colbert-v2.md) |
 | [Neural Retrieval for Question Answering with Cross-Attention Supervised Data Augmentation.](https://arxiv.org/pdf/2009.13815.pdf) | Yinfei Yang et al. | ACL 2021 | NA |
 | [Enhancing Dual-Encoders with Question and Answer Cross-Embeddings for Answer Retrieval.](https://aclanthology.org/2021.findings-emnlp.198.pdf) | Yanmeng Wang et al. | EMNLP 2021 | NA |
-| [Pseudo Label based Contrastive Sampling for Long Text Retrieval](https://ieeexplore.ieee.org/abstract/document/9675219) | Le Zhu et al. | IALP 2021 | NA |
-| [Multi-View Document Representation Learning for Open-Domain Dense Retrieval](https://arxiv.org/pdf/2203.08372.pdf) | Shunyu Zhang et al. | ACL 2022 | NA |
-| [Augmenting Document Representations for Dense Retrieval with Interpolation and Perturbation](https://arxiv.org/pdf/2203.07735v2.pdf) | Soyeong Jeong et al. | ACL 2022 | [Python](github.com/starsuzi/DAR) |
+| [Pseudo Label based Contrastive Sampling for Long Text Retrieval.](https://ieeexplore.ieee.org/abstract/document/9675219) | Le Zhu et al. | IALP 2021 | NA |
+| [Multi-View Document Representation Learning for Open-Domain Dense Retrieval.](https://arxiv.org/pdf/2203.08372.pdf) | Shunyu Zhang et al. | ACL 2022 | NA |
+| [Augmenting Document Representations for Dense Retrieval with Interpolation and Perturbation.](https://arxiv.org/pdf/2203.07735v2.pdf) | Soyeong Jeong et al. | ACL 2022 | [Python](github.com/starsuzi/DAR) |
 | [ERNIE-Search: Bridging Cross-Encoder with Dual-Encoder via Self On-the-fly Distillation for Dense Passage Retrieval.](https://arxiv.org/pdf/2205.09153.pdf) | Yuxiang Lu et al. | Arxiv 2022 | NA |
 | [Pro-KD: Progressive Distillation by Following the Footsteps of the Teacher.](https://arxiv.org/pdf/2110.08532.pdf) | Mehdi Rezagholizadeh et al. | COLING 2022 | NA
 | [Questions Are All You Need to Train a Dense Passage Retriever.](https://arxiv.org/pdf/2206.10658.pdf) | Devendra Singh Sachan et al. | Arxiv 2022 | [Python](https://github.com/DevSinghSachan/art)
@@ -147,13 +147,13 @@
 | --- | --- | --- | --- |
 | [Latent Retrieval for Weakly Supervised Open Domain Question Answering.](https://arxiv.org/pdf/1906.00300.pdf) | Kenton Lee et al. | ACL 2019 | [Python](https://github.com/google-research/language/blob/master/language/orqa/README.md) |
 | [Pre-training tasks for embedding-based large scale retrieval.](https://arxiv.org/pdf/2002.03932.pdf) | Wei-Cheng Chang et al. | ICLR 2020 | NA |
-| [PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval.](https://arxiv.org/pdf/2010.10137.pdf) | Xinyu Ma et.al. | WSDM 2021 | [Python](https://github.com/Albert-Ma/PROP) |
+| [PROP: Pre-training with Representative Words Prediction for Ad-hoc Retrieval.](https://arxiv.org/pdf/2010.10137.pdf) | Xinyu Ma et al. | WSDM 2021 | [Python](https://github.com/Albert-Ma/PROP) |
 | [B-PROP: Bootstrapped Pre-training with Representative Words Prediction for Ad-hoc Retrieval.](https://arxiv.org/pdf/2104.09791.pdf) | Xinyu Ma et al. | SIGIR 2021 | NA |
 | [Domain-matched Pre-training Tasks for Dense Retrieval.](https://arxiv.org/pdf/2107.13602.pdf) | Barlas Oguz et al. | Arxiv 2021 | NA |
 | [Less is More: Pre-train a Strong Text Encoder for Dense Retrieval Using a Weak Decoder.](https://arxiv.org/pdf/2102.09206.pdf) | Shuqi Lu et al. | EMNLP 2021 | [Python](https://github.com/microsoft/SEED-Encoder/) |
-| [Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text Models](https://arxiv.org/pdf/2108.08877) | Jianmo Ni et al. | Arxiv 2021 | [Python](https://github.com/google-research/text-to-text-transfer-transformer) |
+| [Sentence-T5: Scalable Sentence Encoders from Pre-trained Text-to-Text Models.](https://arxiv.org/pdf/2108.08877) | Jianmo Ni et al. | Arxiv 2021 | [Python](https://github.com/google-research/text-to-text-transfer-transformer) |
 | [Unsupervised Corpus Aware Language Model Pre-training for Dense Passage Retrieval.](https://arxiv.org/pdf/2108.05540.pdf) | Luyu Gao et al. | ACL 2022 | [Python](https://github.com/luyug/Condenser) |
-| [Condenser: a Pre-training Architecture for Dense Retrieval](https://arxiv.org/pdf/2104.08253.pdf) | Luyu Gao et al. | EMNLP 2021 | [Python](https://github.com/luyug/Condenser) |
+| [Condenser: a Pre-training Architecture for Dense Retrieval.](https://arxiv.org/pdf/2104.08253.pdf) | Luyu Gao et al. | EMNLP 2021 | [Python](https://github.com/luyug/Condenser) |
 | [TSDAE: Using Transformer-based Sequential Denoising Auto-Encoder for Unsupervised Sentence Embedding Learning.](https://arxiv.org/pdf/2104.06979) | Kexin Wang et al. | EMNLP 2021 | [Python](https://github.com/UKPLab/sentence-transformers/) |
 | [SimCSE: Simple Contrastive Learning of Sentence Embeddings.](https://arxiv.org/pdf/2104.08821.pdf) | Tianyu Gao et al. | EMNLP 2021 | [Python](https://github.com/princeton-nlp/SimCSE) |
 | [Towards Robust Neural Retrieval Models with Synthetic Pre-Training.](https://arxiv.org/pdf/2104.07800v1) | Revanth Gangi Reddy et al. | Arxiv 2021 | NA |
@@ -182,7 +182,7 @@
 | [Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval.](https://dl.acm.org/doi/pdf/10.1145/3488560.3498443) | Jingtao Zhan et al. | WSDM 2022 | [Python](https://github.com/jingtaozhan/repconc) |
 | [Joint Learning of Deep Retrieval Model and Product Quantization based Embedding Index.](https://arxiv.org/pdf/2105.03933) | Han Zhang et al. | SIGIR 2021 | [Python](https://github.com/jdcomsearch/poeem) |
 | [Efficient Passage Retrieval with Hashing for Open-domain Question Answering.](https://arxiv.org/pdf/2106.00882) | Ikuya Yamada et al. | ACL 2021 | [Python](https://github.com/studio-ousia/bpr) |
-| [A Memory Efficient Baseline for Open Domain Question Answering](https://arxiv.org/pdf/2012.15156.pdf) | Gautier Izacard et al. | Arxiv 2020 | NA |
+| [A Memory Efficient Baseline for Open Domain Question Answering.](https://arxiv.org/pdf/2012.15156.pdf) | Gautier Izacard et al. | Arxiv 2020 | NA |
 | [Simple and Effective Unsupervised Redundancy Elimination to Compress Dense Vectors for Passage Retrieval.](https://aclanthology.org/2021.emnlp-main.227.pdf) | Xueguang Ma et al. | EMNLP 2021 | [Python](http://pyserini.io/) |
 | [The Curse of Dense Low-Dimensional Information Retrieval for Large Index Sizes.](https://arxiv.org/pdf/2012.14210.pdf) | Nils Reimers et al. | ACL 2021 | NA |
 | [Matching-oriented Product Quantization For Ad-hoc Retrieval.](https://arxiv.org/pdf/2104.07858) | Shitao Xiao et al. | EMNLP 2021 | [Python](https://github.com/microsoft/MoPQ) |
@@ -197,7 +197,7 @@
 ## Interation with Re-ranking
 | **Paper** | **Author** | **Venue** | **Code** |
 | --- | --- | --- | --- |
-| [RocketQAv2: A Joint Training Method for Dense Passage Retrieval and Passage Re-ranking](https://aclanthology.org/2021.emnlp-main.224.pdf) | Ruiyang Ren et al. | EMNLP 2021 | [Python](https://github.com/PaddlePaddle/RocketQA/tree/main/research/RocketQAv2_EMNLP2021) |
+| [RocketQAv2: A Joint Training Method for Dense Passage Retrieval and Passage Re-ranking.](https://aclanthology.org/2021.emnlp-main.224.pdf) | Ruiyang Ren et al. | EMNLP 2021 | [Python](https://github.com/PaddlePaddle/RocketQA/tree/main/research/RocketQAv2_EMNLP2021) |
 | [Dealing with Typos for BERT-based Passage Retrieval and Ranking.](https://arxiv.org/pdf/2108.12139.pdf) | Shengyao Zhuang et al. | EMNLP 2021 | [Python](https://github.com/ielab/typos-aware-BERT) |
 | [Trans-Encoder: Unsupervised sentence-pair modelling through self- and mutual-distillations.](https://arxiv.org/pdf/2109.13059.pdf) | Fangyu Liu et al. | ICLR 2022 | [Python](https://github.com/amzn/trans-encoder) |
 | [Adversarial Retriever-Ranker for dense text retrieval.](https://arxiv.org/pdf/2110.03611.pdf) | Hang Zhang et al. | Arxiv 2021 | NA |
@@ -264,10 +264,10 @@
 | **Paper** | **Author** | **Venue** | **Code** |
 | --- | --- | --- | --- |
 | [Generalization through memorization: Nearest neighbor language models.](https://arxiv.org/pdf/1911.00172) | Urvashi Khandelwa et al. | Arxiv 2020 | [Python](https://github.com/urvashik/knnlm) |
-| [Adaptive semiparametric language models](https://aclanthology.org/2021.tacl-1.22.pdf) | Dani Yogatama et al. | TACL 2021 | NA |
+| [Adaptive semiparametric language models.](https://aclanthology.org/2021.tacl-1.22.pdf) | Dani Yogatama et al. | TACL 2021 | NA |
 | [Improving language models by retrieving from trillions of tokens.](https://arxiv.org/pdf/2112.04426.pdf) | Borgeaud, Sebastian, et al. | Arxiv 2021 | NA |
 | [REALM: Retrieval-Augmented Language Model Pre-Training.](https://arxiv.org/pdf/2002.08909.pdf) | Kelvin Guu et al. | ICML 2020 | [Python](https://github.com/google-research/language/blob/master/language/realm/README.md) |
-| [Simple and Efficient ways to Improve REALM](https://arxiv.org/abs/2104.08710.pdf) | Vidhisha Balachandran et al. | Arxiv 2021 | NA |
+| [Simple and Efficient ways to Improve REALM.](https://arxiv.org/abs/2104.08710.pdf) | Vidhisha Balachandran et al. | Arxiv 2021 | NA |
 | [Adaptive Semiparametric Language Models.](https://dyogatama.github.io/publications_files/Yogatama+etal_TACL2021.pdf) | Dani Yogatama et al. | TACL 2021 | NA
 | [Efficient Nearest Neighbor Language Models.](https://arxiv.org/pdf/2109.04212) | Junxian He et al. | EMNLP 2021 | [Python](https://github.com/jxhe/efficient-knnlm)
 
@@ -278,7 +278,7 @@
 | **Paper** | **Author** | **Venue** | **Code** |
 | --- | --- | --- | --- |
 | [Multi-modal Retrieval of Tables and Texts Using Tri-encoder Models.](https://arxiv.org/pdf/2108.04049v1.pdf) | Bogdan Kostic et al. | Arxiv 2021 | NA |
-| [Open Domain Question Answering over Tables via Dense Retrieval](https://aclanthology.org/2021.naacl-main.43.pdf) | Jonathan Herzig et al. | NAACL 2021 | [Python](https://github.com/google-research/tapas) |
+| [Open Domain Question Answering over Tables via Dense Retrieval.](https://aclanthology.org/2021.naacl-main.43.pdf) | Jonathan Herzig et al. | NAACL 2021 | [Python](https://github.com/google-research/tapas) |
 | [SituatedQA: Incorporating Extra-Linguistic Contexts into QA.](https://arxiv.org/pdf/2109.06157.pdf) | Michael J.Q. Zhang et al. | EMNLP 2021 | [DATA](https://situatedqa.github.io/) |
 | [XOR QA: Cross-lingual Open-Retrieval Question Answering.](https://aclanthology.org/2021.naacl-main.46.pdf) | Akari Asai et al. | NAACL 2021 | [Python](https://nlp.cs.washington.edu/xorqa/) |
 | [One Question Answering Model for Many Languages with Cross-lingual Dense Passage Retrieval.](https://arxiv.org/pdf/2107.11976.pdf) | Akari Asai et al. | NeurIPS 2021 | [Python](https://github.com/AkariAsai/CORA) |
@@ -306,7 +306,7 @@
 | **Paper** | **Author** | **Venue** | **Code** |
 | --- | --- | --- | --- |
 | [Pre-trained Language Model for Web-scale Retrieval in Baidu Search.](https://arxiv.org/pdf/2106.03373v3) | Yiding Liu et al. | KDD 2021 | NA |
-| [MOBIUS: Towards the Next Generation of Query-Ad Matching in Baidu’s Sponsored Search](http://research.baidu.com/Public/uploads/5d12eca098d40.pdf) | Miao Fan | KDD 2019 | NA |
+| [MOBIUS: Towards the Next Generation of Query-Ad Matching in Baidu’s Sponsored Search.](http://research.baidu.com/Public/uploads/5d12eca098d40.pdf) | Miao Fan. | KDD 2019 | NA |
 | [Uni-Retriever: Towards Learning The Unified Embedding Based Retriever in Bing Sponsored Search.](https://arxiv.org/pdf/2202.06212.pdf) | Jianjin Zhang et al. | Arxiv 2022 | NA |
 | [Embedding-based Product Retrieval in Taobao Search.](https://arxiv.org/pdf/2106.09297.pdf) | Sen Li et al. | KDD 2021 | NA |
 | [Que2Search: Fast and Accurate Query and Document Understanding for Search at Facebook.](https://scontent-nrt1-1.xx.fbcdn.net/v/t39.8562-6/246795273_2109661252514735_2459553109378891559_n.pdf?_nc_cat=105&ccb=1-7&_nc_sid=ad8a9d&_nc_ohc=7LLAz1SvhvcAX9Dr2-E&_nc_ht=scontent-nrt1-1.xx&oh=00_AT_sJBUEVm6mlAYngNn31Oc2BTqokLB9dvcdHTLYsIDCqA&oe=629847E3) | Yiqun Liu et al. | KDD 2021 | NA |
@@ -326,12 +326,12 @@
 | [TriviaQA: A Large Scale Distantly Supervised Challenge Dataset for Reading Comprehension.](https://arxiv.org/pdf/1705.03551) | Mandar Joshi et al. | ACL 2017 | [DATA](http://nlp.cs.washington.edu/triviaqa/) |
 | [mMARCO: A Multilingual Version of the MS MARCO Passage Ranking Dataset.](https://arxiv.org/pdf/2108.13897.pdf) | Luiz Henrique Bonifacio et al. | Arxiv 2021 | [DATA](https://github.com/unicamp-dl/mMARCO.git) |
 | [TREC 2019 News Track Overview.](https://trec.nist.gov/pubs/trec28/papers/OVERVIEW.N.pdf) | Ian Soborof et al. | TREC 2019 | [DATA](https://trec.nist.gov/data/wapost/) |
-| [TREC-COVID: rationale and structure of an information retrieval shared task for COVID-19](https://academic.oup.com/jamia/article-pdf/27/9/1431/34153771/ocaa091.pdf) | Kirk Roberts et al. | J Am Med Inform Assoc. 2020 | [DATA](https://ir.nist.gov/covidSubmit/) |
-| [A Full-Text Learning to Rank Dataset for Medical Information Retrieval](https://www.cl.uni-heidelberg.de/~riezler/publications/papers/ECIR2016.pdf) | Vera Boteva et al. | ECIR 2016 | [DATA](https://www.cl.uni-heidelberg.de/statnlpgroup/nfcorpus/) |
+| [TREC-COVID: rationale and structure of an information retrieval shared task for COVID-19.](https://academic.oup.com/jamia/article-pdf/27/9/1431/34153771/ocaa091.pdf) | Kirk Roberts et al. | J Am Med Inform Assoc. 2020 | [DATA](https://ir.nist.gov/covidSubmit/) |
+| [A Full-Text Learning to Rank Dataset for Medical Information Retrieval.](https://www.cl.uni-heidelberg.de/~riezler/publications/papers/ECIR2016.pdf) | Vera Boteva et al. | ECIR 2016 | [DATA](https://www.cl.uni-heidelberg.de/statnlpgroup/nfcorpus/) |
 | [A Data Collection for Evaluating the Retrieval of Related Tweets to News Articles.](https://research.signal-ai.com/publications/signal1m-tweet-retrieval.pdf) | Axel Suarez et al. | ECIR 2018 | [DATA](https://github.com/igorbrigadir/newsir16-data/tree/master/) |
 | [Overview of Touché 2020: Argument Retrieval.](http://ceur-ws.org/Vol-2696/paper_261.pdf) | Alexander Bondarenko et al. | CLEF 2020 | [DATA](https://touche.webis.de/) |
 | [Retrieval of the Best Counterargument without Prior Topic Knowledge.](https://aclanthology.org/P18-1023.pdf) | Henning Wachsmuth et al. | ACL 2018 | [DATA](http://www.arguana.com/) |
-| [DBpedia-Entity v2: A Test Collection for Entity Search](https://dl.acm.org/doi/pdf/10.1145/3077136.3080751) | Faegheh Hasibi et al. | SIGIR 2017 | [DATA](https://iai-group.github.io/DBpedia-Entity/) |
+| [DBpedia-Entity v2: A Test Collection for Entity Search.](https://dl.acm.org/doi/pdf/10.1145/3077136.3080751) | Faegheh Hasibi et al. | SIGIR 2017 | [DATA](https://iai-group.github.io/DBpedia-Entity/) |
 | [ORCAS: 20 Million Clicked Query-Document Pairs for Analyzing Search.](https://dl.acm.org/doi/abs/10.1145/3340531.3412779) | Nick Craswell et al. | CIKM 2020 | [DATA](https://microsoft.github.io/TREC-2020-Deep-Learning/ORCAS) |
 | [TREC 2022 Deep Learning Track Guidelines](https://www.microsoft.com/en-us/research/uploads/prod/2022/05/trec2021-deeplearning-overview.pdf) | Nick Craswell et al. | TREC 2021 | [DATA](https://microsoft.github.io/msmarco/TREC-Deep-Learning-2021) |
 | [DuReader_retrieval: A Large-scale Chinese Benchmark for Passage Retrieval from Web Search Engine.](https://arxiv.org/pdf/2203.10232) | Yifu Qiu et al. | Arxiv 2022 | [DATA](https://github.com/baidu/DuReader/tree/master/DuReader-Retrieval) |
