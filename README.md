@@ -30,8 +30,6 @@
 - [Datasets](#datasets)
 - [Other Resources](#other-resources)
 
-
-
  
 ## Survey Paper
 | **Paper** | **Author** | **Venue** | **Code** |
@@ -98,7 +96,6 @@
 | [xMoCo: Cross Momentum Contrastive Learning for Open-Domain Question Answering.](https://aclanthology.org/2021.acl-long.477.pdf) | Nan Yang et al. |  ACL 2021 | NA |
 | [A Modern Perspective on Query Likelihood with Deep Generative Retrieval Models.](https://arxiv.org/pdf/2106.13618) | Oleg Lesota et al. | ICTIR 2021 | [Python](https://github.com/CPJKU/DeepGenIR) |
 | [Learning Diverse Document Representations with Deep Query Interactions for Dense Retrieval.](https://arxiv.org/pdf/2208.04232.pdf) | Zehan Li et al. | Arxiv 2022 | [Python](https://github.com/jordane95/dual-cross-encoder)
-| [On Relevance, ProbabiUstic Indexing and Information Retrieval.](https://dl.acm.org/doi/pdf/10.1145/321033.321035) | M. E. Maron et al. | JACM 1960 | NA
 | [Shallow pooling for sparse labels.](https://arxiv.org/pdf/2109.00062.pdf) | Negar Arabzadeh et al. | Arxiv 2021 | NA
 | [Hard Negatives or False Negatives: Correcting Pooling Bias in Training Neural Ranking Models.](https://dl.acm.org/doi/pdf/10.1145/3511808.3557343) | Yinqiong Cai et al. | Arxiv 2022 | NA
 | [Debiased Contrastive Learning of Unsupervised Sentence Representations.](https://arxiv.org/pdf/2205.00656.pdf) | Kun Zhou et al. | ACL 2022 | NA
@@ -121,7 +118,6 @@
 | [Learning robust dense retrieval models from incomplete relevance labels](https://dl.acm.org/doi/pdf/10.1145/3404835.3463106) | Prafull Prakash et al. | SIGIR 2021 | [Python](https://github.com/purble/RANCE) |
 | [Efficient Training of Retrieval Models Using Negative Cache](https://papers.nips.cc/paper/2021/file/2175f8c5cd9604f6b1e576b252d4c86e-Paper.pdf) | Erik M. Lindgren et al. | NeurIPS 2021 | [Python](NA) |
 | [CODER: An efficient framework for improving retrieval through COntextual Document Embedding Reranking](https://arxiv.org/pdf/2112.08766) | George Zerveas et al. | Arxiv 2021 | NA |
-| [Distilling the Knowledge in a Neural Network.](http://www.csri.utoronto.ca/~hinton/absps/distillation.pdf) | Geoffrey Hinton et al. | CoRR 2015 | NA
 | [Curriculum Learning for Dense Retrieval Distillation.](https://arxiv.org/pdf/2204.13679.pdf) | Hansi Zeng et al. | SIGIR 2022 | [Python](https://github.com/HansiZeng/CL-DRD)
 
 ### Data Augmentation
@@ -171,7 +167,6 @@
 | [SIMLM: Pre-training with Representation Bottleneck for Dense Passage Retrieval.](https://arxiv.org/pdf/2207.02578.pdf) | Liang Wang et al. | CoRR 2022 | [Python](https://github.com/microsoft/unilm)
 | [Masked Autoencoders As The Unified Learners For Pre-Trained Sentence Representation.](https://arxiv.org/pdf/2208.00231.pdf) | Alexander Liu et al. | CoRR 2022 | NA
 | [LEXMAE: Lexicon-BottleNecked Pretraining fot Large-scale Retrieval.](https://arxiv.org/pdf/2208.14754.pdf) | Tao Shen et al. | Arxiv 2022 | NA
-| [Synthetic QA Corpora Generation with Roundtrip Consistency.](https://arxiv.org/pdf/1906.05416.pdf) | Chris Alberti et al. | ACL 2019 | NA
 | [PAQ: 65 Million Probably-Asked Questions and What You Can Do With Them.](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00415/107615/PAQ-65-Million-Probably-Asked-Questions-and-What) | Patrick Lewis et al. | Arxiv 2021 | [Python](https://github.com/facebookresearch/PAQ)
 | [End-to-End Synthetic Data Generation for Domain Adaptation of Question Answering Systems.](https://arxiv.org/pdf/2010.06028.pdf) | Siamak Shakeri et al. | EMNLP 2020 | NA
 | [ConTextual Mask Auto-Encoder for Dense Passage Retrieval.](https://arxiv.org/pdf/2208.07670.pdf) | Xing Wu et al. | Arxiv 2022 | [Python](https://github.com/caskcsg/ir)
