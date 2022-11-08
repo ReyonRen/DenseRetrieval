@@ -363,9 +363,10 @@
 
 
 
-## Other Resources
+## Resources
 | **Paper** | **Author** | **Venue** | **Code** |
 | --- | --- | --- | --- |
+| [RocketQA](https://github.com/PaddlePaddle/RocketQA) | --- | webpage | [Python](https://github.com/PaddlePaddle/RocketQA)|
 | [Billion-scale similarity search with GPUs.](https://arxiv.org/pdf/1702.08734) | Jeff Johnson et al. | TBD 2019 | [Python](https://github.com/facebookresearch/faiss) |
 | [Pyserini: An Easy-to-Use Python Toolkit to Support Replicable IR Research with Sparse and Dense Representations](https://arxiv.org/pdf/2102.10073) | Jimmy Lin et al. | Arxiv 2021 | [Python](https://github.com/castorini/pyserini/) |
 | [MatchZoo: A Learning, Practicing, and Developing System for Neural Text Matching.](https://arxiv.org/pdf/1905.10289.pdf) | Jiafeng Guo et al. | SIGIR 2019 | [Python](http://www.bigdatalab.ac.cn/matchzoo/) |
@@ -375,6 +376,5 @@
 | [Pyserini: A Python Toolkit for Reproducible Information Retrieval Research with Sparse and Dense Representations.](https://dl.acm.org/doi/pdf/10.1145/3404835.3463238) | Lin, Jimmy, et al. | SIGIR 2021 | NA
 | [OpenMatch: An Open Source Library for Neu-IR Research.](https://arxiv.org/pdf/2102.00166.pdf) | Liu, Zhenghao, et al. | SIGIR 2021 | [Python](https://github.com/thunlp/OpenMatch)
 | [SentEval: An Evaluation Toolkit for Universal Sentence Representations.](https://arxiv.org/pdf/1803.05449.pdf) | Conneau, Alexis, and Douwe Kiela. | ArXiv 2018 | [Python](https://github.com/facebookresearch/SentEval)
-| [PaddlePaddle: An Open-source Deep Learning Platform from Industrial Practice.](http://www.jfdc.cnic.cn/EN/10.11871/jfdc.issn.2096.742X.2019.01.011) | Ma, Yanjun, et al. | Frontiers of Data and Domputing 2019 | [Python & C++](https://github.com/PaddlePaddle/Paddle)
-| [Are We There Yet? A Decision Framework for Replacing Term-Based Retrieval with Dense Retrieval Systems.](https://arxiv.org/pdf/2206.12993.pdf) | Hofstätter, Sebastian, et al. | Arxiv 2022 | NA
+
 
