@@ -370,7 +370,7 @@
 | [Billion-scale similarity search with GPUs.](https://arxiv.org/pdf/1702.08734) | Jeff Johnson et al. | TBD 2019 | [Python](https://github.com/facebookresearch/faiss) |
 | [Pyserini: An Easy-to-Use Python Toolkit to Support Replicable IR Research with Sparse and Dense Representations](https://arxiv.org/pdf/2102.10073) | Jimmy Lin et al. | Arxiv 2021 | [Python](https://github.com/castorini/pyserini/) |
 | [MatchZoo: A Learning, Practicing, and Developing System for Neural Text Matching.](https://arxiv.org/pdf/1905.10289.pdf) | Jiafeng Guo et al. | SIGIR 2019 | [Python](http://www.bigdatalab.ac.cn/matchzoo/) |
-| [Anserini: Enabling the Use of Lucene for Information Retrieval Research.](https://dl.acm.org/doi/pdf/10.1145/3077136.3080721) | Peilin Yang et al. | SIGIR 2017 | [Python](https://github.com/castorini/anserini) |
+| [Anserini: Enabling the Use of Lucene for Information Retrieval Research.](https://dl.acm.org/doi/pdf/10.1145/3077136.3080721) | Peilin Yang et al. | SIGIR 2017 | [Java](https://github.com/castorini/anserini) |
 | [Tevatron: An Efficient and Flexible Toolkit for Dense Retrieval.](https://arxiv.org/pdf/2203.05765.pdf) | Luyu Gao et al. | Arxiv 2022 | [Python](https://github.com/texttron/tevatron) |
 | [Asyncval: A Toolkit for Asynchronously Validating Dense Retriever Checkpoints during Training.](https://arxiv.org/pdf/2202.12510.pdf) | Shengyao Zhuang et al. | SIGIR 2022 | [Python](https://github.com/ielab/asyncval) |
 | [Pyserini: A Python Toolkit for Reproducible Information Retrieval Research with Sparse and Dense Representations.](https://dl.acm.org/doi/pdf/10.1145/3404835.3463238) | Lin, Jimmy, et al. | SIGIR 2021 | [Python](https://github.com/castorini/pyserini)
