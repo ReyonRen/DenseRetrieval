@@ -348,10 +348,10 @@
 | [CLIMATE-FEVER: A Dataset for Verification of Real-World Climate Claims.](https://arxiv.org/pdf/2012.00614v2.pdf) | Thomas Diggelmann et al. | NeurIPS 2020 | [DATA](http://climatefever.ai) |
 | [Fact or Fiction: Verifying Scientific Claims.](https://aclanthology.org/2020.emnlp-main.609.pdf) | David Wadden et al. | EMNLP 2020 | [DATA](https://scifact.apps.allenai.org) |
 | [SPECTER: Document-level Representation Learning using Citation-informed Transformers.](https://arxiv.org/pdf/2004.07180.pdf) | Arman Cohan et al. | ACL 2020 | [DATA](https://github.com/allenai/specter) |
-| [Simple Entity-Centric Questions Challenge Dense Retrievers.](https://arxiv.org/pdf/2109.08535.pdf) | Christopher Sciavolino et al. | EMNLP 2021 | [DATA](http://www.cl.uni-heidelberg.de/statnlpgroup/nfcorpus/) |
+| [Simple Entity-Centric Questions Challenge Dense Retrievers.](https://arxiv.org/pdf/2109.08535.pdf) | Christopher Sciavolino et al. | EMNLP 2021 | [DATA](https://github.com/princeton-nlp/EntityQuestions) |
 | [ArchivalQA: A Large-scale Benchmark Dataset for Open Domain Question Answering over Archival News Collections.](https://arxiv.org/pdf/2109.03438v2.pdf) | Jiexin Wang et al. | Arxiv 2021 | NA |
 | [Multi-CPR: A Multi Domain Chinese Dataset for Passage Retrieval.](https://arxiv.org/pdf/2203.03367) | Dingkun Long et al. | SIGIR 2022 | [DATA](https://github.com/Alibaba-NLP/Multi-CPR) |
-| [HOVER: A Dataset for Many-Hop Fact Extraction And Claim Verification.](https://arxiv.org/pdf/2011.03088) | Yichen Jiang et al. | EMNLP 2020 | [Python](https://hover-nlp.github.io/)
+| [HOVER: A Dataset for Many-Hop Fact Extraction And Claim Verification.](https://arxiv.org/pdf/2011.03088) | Yichen Jiang et al. | EMNLP 2020 | [DATA](https://hover-nlp.github.io/)
 | [TREC 2021 Deep Learning Track Guidelines.](https://www.microsoft.com/en-us/research/uploads/prod/2022/05/trec2021-deeplearning-overview.pdf) | Nick Craswell et al. | NA | NA
 | [MSMarco Chameleons: Challenging the MSMarco Leaderboard with Extremely Obstinate Queries.](https://ls3.rnet.ryerson.ca/wiki/images/0/09/MSMarco_Chameleons.pdf) | Negar Arabzadeh et al. | CIKM 2021 | [Roff](https://github.com/Narabzad/Chameleons)
 
