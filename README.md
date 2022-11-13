@@ -99,8 +99,7 @@
 | [Shallow pooling for sparse labels.](https://arxiv.org/pdf/2109.00062.pdf) | Negar Arabzadeh et al. | Arxiv 2021 | NA
 | [Hard Negatives or False Negatives: Correcting Pooling Bias in Training Neural Ranking Models.](https://dl.acm.org/doi/pdf/10.1145/3511808.3557343) | Yinqiong Cai et al. | Arxiv 2022 | NA
 | [Debiased Contrastive Learning of Unsupervised Sentence Representations.](https://arxiv.org/pdf/2205.00656.pdf) | Kun Zhou et al. | ACL 2022 | NA
-| [word2vec Explained: Deriving Mikolov et al.’s Negative-Sampling Word-Embedding Method.](https://arxiv.org/pdf/1402.3722.pdf) | Yoav Goldberg et al. | Arxiv 2022 | NA
-| [Understanding Negative Sampling in Graph Representation Learning.](https://arxiv.org/pdf/2005.09863.pdf) | Zhen Yang et al. | SIGKDD 2020 | [Python](https://github.com/THUDM/MCNS)
+
 
 ### Negative Selection
 | **Paper** | **Author** | **Venue** | **Code** |
