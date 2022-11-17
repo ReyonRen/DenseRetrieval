@@ -118,7 +118,7 @@
 | [Efficient Training of Retrieval Models Using Negative Cache.](https://papers.nips.cc/paper/2021/file/2175f8c5cd9604f6b1e576b252d4c86e-Paper.pdf) | Erik M. Lindgren et al. | NeurIPS 2021 | [Python](NA) |
 | [CODER: An efficient framework for improving retrieval through COntextual Document Embedding Reranking.](https://arxiv.org/pdf/2112.08766) | George Zerveas et al. | Arxiv 2021 | NA |
 | [Curriculum Learning for Dense Retrieval Distillation.](https://arxiv.org/pdf/2204.13679.pdf) | Hansi Zeng et al. | SIGIR 2022 | [Python](https://github.com/HansiZeng/CL-DRD)
-| [SimANS: Simple Ambiguous Negatives Sampling for Dense Text Retrieval](https://arxiv.org/pdf/2210.11773.pdf) | Kun Zhou et al. | EMNLP 2022 | [Python](https://github.com/microsoft/SimXNS) |
+| [SimANS: Simple Ambiguous Negatives Sampling for Dense Text Retrieval.](https://arxiv.org/pdf/2210.11773.pdf) | Kun Zhou et al. | EMNLP 2022 | [Python](https://github.com/microsoft/SimXNS) |
 
 ### Data Augmentation
 | **Paper** | **Author** | **Venue** | **Code** |
