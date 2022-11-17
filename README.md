@@ -118,6 +118,7 @@
 | [Efficient Training of Retrieval Models Using Negative Cache.](https://papers.nips.cc/paper/2021/file/2175f8c5cd9604f6b1e576b252d4c86e-Paper.pdf) | Erik M. Lindgren et al. | NeurIPS 2021 | [Python](NA) |
 | [CODER: An efficient framework for improving retrieval through COntextual Document Embedding Reranking.](https://arxiv.org/pdf/2112.08766) | George Zerveas et al. | Arxiv 2021 | NA |
 | [Curriculum Learning for Dense Retrieval Distillation.](https://arxiv.org/pdf/2204.13679.pdf) | Hansi Zeng et al. | SIGIR 2022 | [Python](https://github.com/HansiZeng/CL-DRD)
+| [SimANS: Simple Ambiguous Negatives Sampling for Dense Text Retrieval](https://arxiv.org/pdf/2210.11773.pdf) | Kun Zhou et al. | EMNLP 2022 | [Python](https://github.com/microsoft/SimXNS) |
 
 ### Data Augmentation
 | **Paper** | **Author** | **Venue** | **Code** |
@@ -205,7 +206,7 @@
 | [Understanding the Behaviors of BERT in Ranking.](https://arxiv.org/pdf/1904.07531) | Yifan Qiao et al. | CoRR 2019 | NA
 | [Multi-passage BERT: A Globally Normalized BERT Model for Open-domain Question Answering.](https://arxiv.org/pdf/1908.08167.pdf) | Zhiguo Wang et al. | Arxiv 2019 | NA
 | [TOWARDS ROBUST RANKER FOR TEXT RETRIEVAL.](https://arxiv.org/pdf/2206.08063.pdf) | Yucheng Zhou et al. | Arxiv 2022 | [Python](https://github.com/taoshen58/R2ANKER)
-| [Rethink Training of BERT Rerankers in Multi-Stage Retrieval Pipeline.](https://arxiv.org/pdf/2101.08751.pdf) | GLuyu Gao et al. | ECIR 2021 | NA
+| [Rethink Training of BERT Rerankers in Multi-Stage Retrieval Pipeline.](https://arxiv.org/pdf/2101.08751.pdf) | Luyu Gao et al. | ECIR 2021 | NA
 | [Multi-Stage Document Ranking with BERT.](https://arxiv.org/pdf/1910.14424.pdf) | Rodrigo Nogueira et al. | CoRR 2019 | NA
 
 
