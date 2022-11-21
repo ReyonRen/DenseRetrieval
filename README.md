@@ -123,7 +123,7 @@
 ### Data Augmentation
 | **Paper** | **Author** | **Venue** | **Code** |
 | --- | --- | --- | --- |
-| [Unified Open-domain Question Answering with Structured and Unstructured Knowledge.](https://arxiv.org/pdf/2012.14610v1.pdf) | Barlas Oguz et al. | Arxiv 2021 | NA |
+| [UniK-QA: Unified Representations of Structured and Unstructured Knowledge for Open-Domain Question Answering.](https://arxiv.org/pdf/2012.14610.pdf) | Barlas Oguz et al. | Arxiv 2021 | NA |
 | [Augmented SBERT: Data Augmentation Method for Improving Bi-Encoders for Pairwise Sentence Scoring Tasks.](https://arxiv.org/pdf/2010.08240.pdf) | Nandan Thakur et al. | NAACL 2021 | [Python](www.sbert.net) |
 | [Is Retriever Merely an Approximator of Reader?](https://arxiv.org/pdf/2010.10999.pdf) | Sohee Yang et al. | Arxiv 2020 | NA |
 | [Distilling Knowledge from Reader to Retriever for Question Answering.](https://openreview.net/pdf?id=NTEz-6wysdb) | Gautier Izacard et al. | ICLR 2021 | [Python](github.com/facebookresearch/FiD) |
