@@ -357,7 +357,7 @@
 
 
 
-## Resources
+## Libraries
 | **Paper** | **Author** | **Venue** | **Code** |
 | --- | --- | --- | --- |
 | [RocketQA](https://github.com/PaddlePaddle/RocketQA) | --- | webpage | [Python](https://github.com/PaddlePaddle/RocketQA)|
